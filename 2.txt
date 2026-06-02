@@ -1,0 +1,229 @@
+Lesson 2: Federal Law
+Lesson 2: Federal Law
+DoD Instruction 5200.01 VOL 1: DoD Information Security Program and Protection of Sensitive Compartmented Information
+The purpose of the overall Manual is to implement policy, assign responsibilities, and provide procedures for the designation, marking, protection, and dissemination of controlled unclassified information (CUI) and classified information, including information categorized as collateral, sensitive compartmented information (SCI), and Special Access Program (SAP). This combined guidance is known as the DoD Information Security Program.
+
+This volume describes the DoD Information Security Program. Provides guidance for classification and declassification of DoD information that requires protections in the interest of national security.
+
+DoD Instruction 5200.01 VOL 2: DoD Information Security Program: Marking of Classified Information
+This volume provides guidance for the correct marking of classified information.
+
+DoD Instruction 5200.01 VOL 3: DoD Information Security Program: Protection of Classified Information
+This volume provides guidance for safeguarding, storage, destruction, transmission, and transportation of classified information. Identifies security education and training requirements and processes for handling of security violations and compromise of classified information. Addresses information technology issues of which the security manager must be aware.
+
+DoD Instruction 5200.02: DoD Personnel Security Program
+It is DoD policy that the objective of the personnel security program is that military, civilian, and contractor personnel assigned to and retained in sensitive positions, in which they could potentially damage national security, are and remain reliable and trustworthy, and there is no reasonable basis for doubting their allegiance to the United States.
+
+No person shall be deemed to be eligible for access to classified information unless such access is clearly consistent with the interests of national security. Eligibility for access shall not be granted merely by reason of the following:
+
+Federal service or contracting
+Licensee
+Certificate holder
+Grantee status
+Right of privilege
+A result of any particular title, rank, position, or affiliation
+This directive applies to the Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense. It also applies to all DoD civilian personnel, members of the Armed Forces, contractor personnel, and other personnel affiliated with the Department of Defense.
+
+DoD Directive 5210.50: Management of Serious Security Incidents Involving Classified Information
+It is DoD policy that known or suspected instances of unauthorized public disclosure of classified information shall be reported promptly and investigated to decide:
+
+DoD-wide system for reporting and managing serious security incidents
+Training on the prevention, identification, and reporting of security incidents will be provided to DoD personnel
+Commanders and supervisors will ensure security incident are referred to appropriate authorities
+Incident investigations and reporting will integrate security, counterintelligence, law enforcement, and other appropriate DoD interests
+DoD personnel responsible for incidents will be held accountable, by way of criminal proceeding, civil judicial action, disciplinary or adverse administrative action IAW federal law or regulations
+This directive applies to the Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense. This directive shall be made applicable to DoD contractors through appropriate contract clauses.
+
+DoD Directive 5230.09: Clearance of DoD Information for Public Release
+This directive establishes policy and assigns responsibilities for the security and policy review and clearance of official DoD information proposed for official public release by the Department of Defense and its employees. Any official DoD information intended for public release that pertains to military matters, national security issues, or subjects of significant concern to the Department of Defense shall be reviewed for clearance by appropriate security review and public affairs offices prior to release. This directive applies to the Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense.
+
+This directive also applies to all DoD employees.
+DoD Directive 8100.02: Use of Commercial Wireless Devices, Services, and Technologies in the Department of Defense (DoD) Global Information Grid (GIG)
+This directive establishes policy and assigns responsibilities for the use of commercial wireless devices, services, and technologies in the DoD Global Information Grid (GIG).
+
+Directs the development and use of a Knowledge Management (KM) process to promote the sharing of wireless technology capabilities, vulnerabilities, and vulnerability mitigation strategies throughout the Department of Defense.
+
+Promotes joint interoperability using open standards throughout the Department of Defense of commercial wireless service, devices, and technological implementations.
+
+This directive applies to the Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense.
+
+This directive also applies to all DoD personnel, contractors, and visitors that enter DoD facilities or that have access to DoD information. Applies to all commercial wireless devices, services, and technologies, including voice and data capabilities, that operate either as part of the DoD, GIG, or as part of DoD non-GIG information technology stand-alone systems.
+
+This includes:
+
+Commercial wireless networks
+Portable Electronic Devices (PED) such as laptop computers with wireless capabilities
+Cellular/Personal Communication System (PCS) devices
+Audio/Video recording devices
+Scanning devices
+Remote sensors
+Messaging devices
+Personal Digital Assistants (PDA)
+Any other commercial wireless devices capable of storing, processing, or transmitting information
+DOD Instruction 8410.02: NETOPS for the Global Information Grid (GIG)
+Establishes policy and assigns responsibilities for implementing and executing NetOps, the DoD-wide operational, organizational, and technical capabilities for operating and defending the GIG.
+
+Department of Defense Directives 8500 Series
+These directives establish policy and assigns responsibilities to achieve Department of Defense (DoD) Cybersecurity, Cyber IT, Cyber effects and Intelligence through a defense-in-depth approach that integrates the capabilities of personnel, operations, technology, and supports the evolution to network centric warfare.
+
+They implement policy, assign responsibilities, and prescribe procedures for applying integrated, layered protection of the DoD information systems and networks. They provide end-to-end protection of DoD information and defend DoD information systems and computer networks from unauthorized or malicious activity.
+
+They also provide cybersecurity situational awareness and Command and Control (C2), improve Cyber processes through integration and create an empowered Cyber workforce.
+
+The documents that make up this series are as follows:
+DoD Directive 8140.01 - Cyberspace Workforce Management
+DoD Instruction 8320.07 - Implementing the Sharing of Data, Information, and Information Technology (IT) Services in the Department Of Defense
+DoD Instruction 8500.01 - Cybersecurity
+DoD Instruction 8510.01- Risk Management Framework (RMF) for DoD Information Technology (IT)
+DoD Instruction 5200.01 - DoD Information Security Program and Protection of Sensitive Compartmented Information (SCI)
+DoD Instruction 8520.2 - Public Key Infrastructure (PKI) and Public Key (PK) Enabling
+DoD Directive 8521.01E - Department of Defense Biometrics
+DoD Instruction 8523.01 - Communications Security (COMSEC)
+DoD Instruction 8530.01 - Cybersecurity Activities Support to DoD Information Network Operations
+DoD Directive 8530.1-M - Department of Defense Computer Network Defense (CND) Service Provider Certification and Accreditation Process
+DoD Instruction 8551.01 - Ports, Protocols, and Service Management (PPSM)
+DoD Instruction 8560.01 - Communications Security (COMSEC) Monitoring
+DoD Instruction 8580.1 - Information Assurance (IA) in the Defense Acquisition System
+DoD 8570.01-M - Information Assurance Workforce Improvement Program
+DoD Directive 8581.1 - Information Assurance (IA) Policy for Space Systems Used by the Department of Defense
+DoD Instruction 8500.01: Cybersecurity
+Reissues and renames DoD Directive (DoDD) 8500.01E (Reference (a)) as a DoD Instruction (DoDI) pursuant to the authority in DoDD 5144.02 (Reference (b)) to establish a DoD cybersecurity program to protect and defend DoD information and information technology (IT).
+
+Incorporates and cancels DoDI 8500.02 (Reference (c)), DoDD C-5200.19 (Reference (d)), DoDI 8552.01 (Reference (e)), Assistant Secretary of Defense for Networks and Information Integration (ASD(NII))/DoD Chief Information Officer (DoD CIO) Memorandums (References (f) through (k)), and Directive-type Memorandum (DTM) 08-060 (Reference (l)).
+
+Establishes the positions of DoD principal authorizing official (PAO) (formerly known as principal accrediting authority) and the DoD Senior Information Security Officer (SISO) (formerly known as the Senior Information Assurance Officer) and continues the DoD Information Security Risk Management Committee (DoD ISRMC) (formerly known as the Defense Information Systems Network (DISN)/Global Information Grid (GIG) Flag Panel). d. Adopts the term "cybersecurity" as it is defined in National Security Presidential Directive-54/Homeland Security Presidential Directive-23 (Reference (m)) to be used throughout DoD instead of the term "information assurance (IA)."
+
+DoD Instruction 8510.01- Risk Management Framework (RMF) for DoD Information Technology (IT)
+This instruction reissues and renames DoD Instruction (DoDI) 8510.01 (Reference (a)) in accordance with the authority in DoD Directive (DoDD) 5144.02 (Reference (b)). Implements References (c) through (f) by establishing the RMF for DoD IT (referred to in this instruction as "the RMF"), establishing associated cybersecurity policy, and assigning responsibilities for executing and maintaining the RMF. The RMF replaces the DoD Information Assurance Certification and Accreditation Process (DIACAP) and manages the lifecycle cybersecurity risk to DoD IT in accordance with References (g) through (k).
+
+Redesignates the DIACAP Technical Advisory Group (TAG) as the RMF TAG.
+
+Directs visibility of authorization documentation and reuse of artifacts between and among DoD Components deploying and receiving DoD IT.
+
+Provides procedural guidance for the reciprocal acceptance of authorization decisions and artifacts within DoD, and between DoD and other federal agencies, for the authorization and connection of information systems (ISs)
+
+The six steps of RMF:
+Step 1 - Categorize System: Assign roles and determine potential impact of a security breach.
+Step 2 - Select Security Controls: identify the security control baseline and associated overlays.
+Step 3 - Implement Security Controls: configure in accordance with applicable STIGs or SRGs
+Step 4 - Assess Security Controls: utilize a security assessment plan and determine aggregate risk.
+Step 5 - Authorize System: weigh the risk to the organization and determine acceptability.
+Step 6 - Monitor Security Controls: continuously monitor the security posture.
+The RMF process uses the same development strategy used in the System Development Life Cycle.
+DoD Instruction 5200.01: DoD Information Security Program and Protection of Sensitive Compartmented Information (SCI)
+This instruction establishes policy and assigns responsibilities regarding the protection, use, and dissemination of Sensitive Compartmented Information (SCI) within the Department of Defense.
+
+DoD Instruction 8530.01- Cybersecurity Activities Support to DoD Information Network Operations
+This instruction reissues DoDD O-8530.1 (Reference (b)) as a DoD Instruction (DoDI) and incorporates and cancels DoDI O-8530.2 (Reference (c)) to establish policy and assign responsibilities to protect the Department of Defense information network (DoDIN) against unauthorized activity, vulnerabilities, or threats.
+
+Supports the Joint Information Environment (JIE) concepts as outlined in JIE Operations Concept of Operations (CONOPS) (Reference (d)). Supports the formation of Cyber Mission Forces (CMF), development of the Cyber Force Concept of Operations and Employment, evolution of cyber command and control, cyberspace operations doctrine in Joint Publication 3-12 (Reference (e)), and evolving cyber threats. Supports the Risk Management Framework (RMF) requirements to monitor security controls continuously, determine the security impact of changes to the DoDINDODIN and operational environment, and conduct remediation actions as described in DoDI 8510.01 (Reference (f). Cancels Assistant Secretary of Defense for Command, Control, Communications, and Intelligence Memorandum (Reference (g)).
+
+DoD Directive 8530.1-M - Department of Defense Computer Network Defense (CND) Service Provider Certification and Accreditation Program
+This directive establishes the Computer Network Defense (CND) policy, definition, and responsibilities necessary to provide the essential structure and support to the Commander in Chief, U. S. Space Command (USCINCSPACE) for CND within the Department of Defense information systems and computer networks. To implement this program, all will need DoD Directive 8530.1-M, Department of Defense Computer Network Defense (CND) Service Provider Certification and Accreditation Process Program Manual.
+
+DoD Instruction 8551.1: Ports, Protocols, and Services Management (PPSM)
+Updates policy and standardizes procedures to catalog, regulate, and control the use and management of protocols in the Internet protocol suite, and associated ports (also known as "protocols, data services, and associated ports" or "ports, protocols, and services"); referred to in this instruction as PPS on DoD information networks (DODIN) including the connected information systems, platform information technology (IT) systems, platform IT (PIT), and products based on the potential that unregulated PPSM can damage DoD operations and interests.
+
+Establishes PPSM support requirements for configuration management and continuous monitoring to include discovery and analysis of PPS to support near real time command and control (C2), of the DODIN and Joint Information Environment (JIE).
+
+Establishes on the unclassified Risk Management Framework (RMF) Knowledge Service (KS), at https://diacap.iaportal.navy.mil/login.htmrmfks.osd.mil, a presence for current PPSM policies and procedures and provides a mechanism for the DoD cybersecurity community to post and share PPSM practical solutions and documents with other DoD community and mission partners.
+
+Incorporates and cancels Assistant Secretary of Defense for Networks and Information Integration/DoD Chief Information Officer memorandums regarding PPS (References (d) and (e)).
+
+DoD Instruction 8580.1: Information Assurance (IA) in the Defense Acquisition System
+This instruction implements policy, assigns responsibilities, and prescribes procedures necessary to integrate information assurance (IA) into the Defense Acquisition System. Describes required and recommended levels of IA activities relative to the acquisition of systems and services. Describes the essential elements of an acquisition IA strategy, its applicability, and prescribes an acquisition IA strategy submission and review process.
+
+This directive applies to the following:
+
+Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense.
+Applies to all acquisitions of automated information systems (AIS), outsourced information technology (IT)-based processes, and platforms or weapon systems with IT interconnections to the Global Information Grid (GIG).
+DoD Instruction 8581.1: Information Assurance (IA) Policy for Space Systems Used by the Department of Defense
+This directive implements the requirements by establishing Information Assurance (IA) policy and assigning IA responsibilities for all DoD space systems and supplements IA policy and requirements contained in DoD Instruction 8500.2.
+
+This Directive applies to:
+
+The Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, the Office of the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities in the Department of Defense.
+All types of DoD-owned or controlled space systems, and the components thereof, that collect, generate, process, store, display, transmit, or receive national security or DoD sensitive information (e.g., launch vehicles, satellites, payloads, launch and test ranges, satellite and network operation centers, and user equipment).
+Commercial (domestic and foreign), U.S. civil, or foreign government-owned (i.e., those not owned or controlled by the Department of Defense) space systems, components, or services used by the Department of Defense to collect, generate, process, store, display, transmit, or receive national security or DoD sensitive information.
+Interfaces between space systems covered by this Directive and external systems when it is determined that the architecture of the space system does not provide for adequate protection against potential threats from interconnected, external systems.
+Department of Defense (DoD) Guidance on Protecting Personally Identifiable Information (PII)
+DoD components are directed to ensure that all PII not explicitly cleared for public release is protected according to Confidentiality Level Sensitive, as established in DoD Instructor 8500.01. Additionally, all DoD information and data owners shall conduct risk assessments of compilations of PII and identify those needing more stringent protection for remote access or mobile computing. The attachment provides detailed implementation guidance.
+
+This policy applies to:
+
+The Office of the Secretary of Defense (OSD), the Military Departments, the Chairman of the Joint Chiefs of Staff (CJCS), the Combatant Commands, the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense.
+
+All DoD-owned or controlled information systems that receive, process, store, display or transmit DoD information, throughout the entire system life cycle (SLC) and regardless of classification or sensitivity.
+
+DoD Internet Practices and Policies
+The Office of Management and Budget and DoD issued policy on privacy and data collection activities at Government web sites. That policy prohibits the use of web technology to collect identifying information to build profiles on individuals, and prohibits the use of persistent cookies unless certain conditions are met, including obtaining the personal approval of the head of the agency.
+
+Examples of the information-gathering technology are:
+
+Persistent cookies
+Third-party cookies
+Web bugs
+Policy requires the display of a privacy notice at principal web sites and locations where substantial personal information is collected from visitors. A privacy notice should inform visitors that the web site is public information and uses software programs to monitor for prohibited activities. In addition, the privacy statement should provide a point of contact for the web site.
+
+Security Technical Implementation Guides (STIG) and National Security Agency (NSA) Guides
+STIG and NSA guides are the configuration standards of DoD IA and IA-enabled devices and systems. They are currently being implemented throughout the government and by numerous entities as a security baseline for their systems.
+
+STIG are checklists with settings and option selections that minimize the security risks associated with each computer hardware and software that is likely to become widely used within the Federal Government. The most up-to-date STIG can be found on the DISA website.
+
+NSA guides cover proprietary and open source hardware and software. Their work to enhance the security of software is motivated by one simple consideration, use our resources as efficiently as possible to give customers the best possible security options in the most widely employed products. These guides can be found on the NSA website.
+
+Common Criteria
+Common Criteria is an international standard (ISO/IEC 15408) that provides a globalized approach to evaluate a system's level of functionality and level of design assuredness.
+
+It is used:
+
+To find requirements for security features that match specific risk assessments.
+To publish security requirements so that vendors can design a product that meets those standards.
+To establish and verify baselines.
+More information on the Common Criteria can be found by going to the National Institute of Standards and Technology (NIST) or DISA website at http://www.nist.gov or http://www.disa.mil.
+Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+These standards require measures to be taken to secure health information while in the custody of entities covered by HIPAA as well as in transit between covered entities and from covered entities to others.
+
+All health care providers must ensure that the confidentiality, integrity, and availability of electronically protected health information they collect, maintain, use, or transmit is protected.
+
+Electronic Communications Privacy Act of 1986
+Essentially, this means that unless you have the permission of either party involved in a communication in any form, or you are a law enforcement officer with the expressed permission from an authorized court (this means a court order or search warrant), you are not permitted to intercept any communication regardless of how it was transmitted.
+
+On the basis of its own investigations and of published studies, the Congress makes the following findings:
+
+Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived there from are being used by public and private parties as evidence in court and administrative proceedings and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
+In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
+Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
+To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction and should remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime with assurances that the interception is justified and that the information obtained thereby will not be misused.
+Computer Fraud and Abuse Act of 1986
+The original act was very narrow in defining what a computer crime was. The act covered only:
+
+Classified defense or foreign relations information
+Records of financial institutions or credit reporting agencies
+Government computers
+Unauthorized access or access in excess of authorization became a felony on classified information and a misdemeanor for financial information; it also became a misdemeanor to access a government computer with or without authorization should the government’s use of the computer be affected.
+
+Computer Security Act of 1987
+The act states that the security and privacy of federal computer systems are in the public interest. It gives to NIST the computer security mission, including the development of standards. The Act requires that each U.S. federal agency provide its employees with training in computer security awareness and practice and to set up a security plan for each of its systems.
+
+The U.S. Federal Privacy Act of 1974
+The Privacy Act means that is it illegal for any U.S. Government agency to release information that it has acquired about you:
+
+Without your express consent
+Unless it is required directly for their job and will not be disclosed publicly
+Unless requested officially by a court of the jurisdiction
+Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT) Act of 2001
+The purpose of the USA PATRIOT Act is to deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and other purposes.
+
+It is made up of the following titles:
+
+Title I - Enhancing Domestic Security Against Terrorism
+Title II - Enhanced Surveillance Procedures
+Title III - International Money Laundering Abatement and Anti-Terrorist Financing Act of 2001
+Title IV - Protecting the Border
+Title V - Removing Obstacles to Investigating Terrorism
+Title VI - Providing For Victims of Terrorism, Public Safety Officers, and Their Families
+Title VII - Increased Information Sharing for Critical Infrastructure Protection
+Title VIII - Strengthening the Criminal Laws Against Terrorism
+Title IX - Improved Intelligence
+Title X - Miscellaneous
