@@ -1,0 +1,29 @@
+Lesson 1: Army Cybersecurity Program
+Lesson 1: Army Cybersecurity Program
+What is Cyber-security?
+Cybersecurity is a holistic program to manage Information Technology (IT)-related security risk. To be effective, it must be integrated fully into every aspect of the Army. It requires the implementation and enforcement of proper management and operational procedures by the entire organization, from commanders and senior leaders of agencies and activities providing the strategic vision and goals for the organization, to strategic planners and project and program managers (PMs), down to each individual who helps develop, implement, and operate the IT that supports the Army's mission and business processes. Furthermore, each individual, at every level, is responsible for procedural compliance with the proper practices and procedures for safeguarding information and IT. The responsibility for ensuring that personnel abide by these practices and procedures is inherent to commanders and senior leaders of agencies and activities.
+
+Cybersecurity Program functions
+The Army Cybersecurity Program synchronizes and standardizes cybersecurity requirements for safeguarding IT and information to support the execution of critical Army missions and essential functions. The Army must?
+
+Incorporate cyber risk management principles and best practices into organization-wide strategic planning considerations, core missions, and business processes, and supporting organizational IT.
+Integrate cybersecurity requirements into system development life-cycle processes.
+Establish practical and meaningful boundaries for organizational information systems in order to identify what the organization is responsible for protecting. Also identify what needs to be protected under its direct control and management or within its scope of responsibilities, including people, processes, and information technologies that are part of the systems supporting the organization's missions and business processes.
+Correctly categorize IT in accordance with CNSSI 1253, implement the corresponding set of security controls from NIST SP 800-53 Rev. 4, and use assessment procedures from DOD Control Correlation Identifiers (CCI) and other DOD and Army guidance found on the DOD RMF Knowledge Service at https://rmfks.osd.mil.
+Plan for the following when managing cyber risks in order to minimize the impact on DOD and Army missions and business operations.
+Operational resilience.
+Ensure that information resources are trustworthy by meeting trusted systems and networks requirements and best practices, in accordance with DODI 5200.44.
+Ensure that units are prepared for information resource degradation or loss during missions by performing develop-mental T&E of cybersecurity.
+Ensure that network operations have the means to prevail in the face of adverse events by establishing proactive protective internal defensive measures.
+Interoperability. Ensure the ability of IT to interoperate with other Army, DOD, and mission partner IT, as required.
+Cyberspace. Cyberspace defense will be employed to protect, detect, characterize, counter, and mitigate unauthorized activity and vulnerabilities on DOD information networks. Cyberspace defense information will be shared with all appropriately cleared and authorized personnel in support of DOD enterprise-wide situational awareness.
+Performance. Manage mission outcomes based on strategic goals and objectives.
+DOD and Army information. Implement policies and procedures required by DOD and the Army in operational environments to minimize risk.
+Identity assurance. Verify credentials to ensure that users are authorized and in compliance with DOD standards.
+Workforce. Follow DOD guidelines to manage the workforce in accordance with cybersecurity objectives.
+Cybersecurity. Safeguard information using required protection processes to support cybersecurity objectives in line with Defense support to civilian agencies and partner-assisted missions.
+Culture of accountability. Work to execute and enforce Army wide responsibilities by aligning mission goals and standards, in accordance with cybersecurity guidelines.
+Shared risk responsibility. Manage responsibilities in a cohesive operational environment to mitigate disruptive events.
+Adherence to Department of Defense and Army architectures. Follow DOD and Army guidelines and procedures, and adhere to DODI 8510.01.
+Continuous monitoring. Maintain ongoing awareness of information and IT in order to support risk-related decisions at all tiers (the Army as an organization, mission/business processes and the IT itself). Utilize information readily available through implemented security controls.
+Reciprocity. The Army will use the DOD repository, the Enterprise Mission Assurance Support Service (eMASS) or its successor, to share security authorization packages and risk assessment data with AOs (authorizing official) from other organizations in order to reduce redundant testing, assessment, and documentation, and the associated costs in time and resources; and to support making credible, risk-based decisions regarding the acceptance and use of systems and the information that they process, store, or transmit.
