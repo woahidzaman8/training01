@@ -1,0 +1,107 @@
+Lesson 19: Risk Management Framework
+Lesson 19: Risk Management Framework
+Lesson Overview/Objectives:
+
+In this lesson we will provide an overview of the Risk Management Framework (RMF) along with the procedures, techniques, and training actions available to assist in understanding this activity. Upon completion of this lesson you will be familiar with the RMF Knowledge and eMASS support services, the responsibilities of procedures for implementing the six RMF steps.
+
+RMF Overview
+Security Controls
+Authorization and Monitoring
+Security Categorization
+RMF Implementation Steps
+eMass Capabilities
+eMASS Cybersecurity Strategy
+RMF Training
+Risk Management Framework (RMF) Overview
+The selection and specification of security controls for a system is accomplished as part of an organization-wide information security program that involves the management of organizational risk---that is, the risk to the organization or to individuals associated with the operation of a system. The management of organizational risk is a key element in the organization's information security program and provides an effective framework for selecting the appropriate security controls for a system---the security controls necessary to protect individuals and the operations and assets of the organization.
+
+Security Controls
+The purpose of Special Publication 800-53 is to provide guidelines for selecting and specifying security controls for systems supporting the executive agencies of the federal government. The guidelines have been developed to help achieve more secure systems within the federal government by:
+
+Facilitating a more consistent, comparable, and repeatable approach for selecting and specifying security controls for systems;
+Providing a recommendation for minimum security controls for systems categorized in accordance with FIPS 199, Standards for Security Categorization of Federal Information and Information Systems;
+Providing a stable, yet flexible catalog of security controls for systems to meet current organizational protection needs and the demands of future protection needs based on changing requirements and technologies; and
+Creating a foundation for the development of assessment methods and procedures for determining security control effectiveness.
+The guidelines provided in NIST Special Publication 800-53 are applicable to all federal systems other than those systems designated as national security systems as defined in 44 U.S.C., Section 3542. The guidelines have been broadly developed from a technical perspective to complement similar guidelines for national security systems. This publication is intended to provide guidance to federal agencies implementing FIPS 200, Minimum Security Requirements for Federal Information and Information Systems. In addition to the agencies of the federal government, state, local, and tribal governments, and private sector organizations that compose the critical infrastructure of the United States, are encouraged to use these guidelines, as appropriate.
+
+The security controls cover the following topic areas:
+
+Risk Assessment;
+Certification, Accreditation and Security Assessments;
+System Services and Acquisition;
+Security Planning;
+Configuration Management;
+System and Communications Protection;
+Personnel Security;
+Awareness and Training;
+Physical and Environmental Protection;
+Media Protection;
+Contingency Planning;
+System and Information Integrity;
+Incident Response;
+Identification and Authentication;
+Access Control; and
+Accountability and Audit
+Authorization and Monitoring
+The purpose of NIST Special Publication 800-37 Rev. 2is to provide guidelines for applying the Risk Management Framework to systems to include conducting the activities of security categorization, security control selection and implementation, security control assessment, system authorization, and security control monitoring. The guidelines have been developed:
+
+To ensure that managing system-related security risks is consistent with the organization's mission/business objectives and overall risk strategy established by the senior leadership through the risk executive (function);
+To ensure that information security requirements, including necessary security controls, are integrated into the organization's enterprise architecture and system development life cycle processes;
+To support consistent, well-informed, and ongoing security authorization decisions (through continuous monitoring), transparency of security and risk-related information, and reciprocity of security assessment results;
+To achieve more secure information and systems within the federal government through the implementation of appropriate risk mitigation strategies.
+This publication satisfies the requirements of the Federal Information Security Modernization Act (FISMA) and meets or exceeds the information security requirements established for executive agencies by the Office of Management and Budget (OMB) in Circular A-130, Appendix III, and Security of Federal Automated Information Resources. The guidelines in this publication are applicable to all federal systems other than those systems designated as national security systems as defined in 44 U.S.C., Section 3542. The guidelines have been broadly developed from a technical perspective to complement similar guidelines for national security systems and may be used for such systems with the approval of appropriate federal officials exercising policy authority over such systems. State, local, and tribal governments, as well as private sector organizations are encouraged to consider using these guidelines, as appropriate.
+
+Security Categorization
+The Federal Information Security Modernization Act (FISMA) tasked NIST to develop:
+Standards to be used by Federal agencies to categorize information and systems based on the objectives of providing appropriate levels of information security according to a range of risk levels;
+Guidelines recommending the types of information and systems to be included in each category; and
+Minimum information security requirements, for information and systems.
+The following publications provide additional guidance on security categorization
+FIPS Publication 199, Standards for Security Categorization of Federal Information and Information Systems, addresses the first of these three tasks. FIPS 199 establishes security categories for both information and systems. The security categories are based on the potential impact on an organization should certain events occur which jeopardize the information and systems needed by the organization to accomplish its assigned mission, protect its assets, fulfill its legal responsibilities, maintain its day-to-day functions, and protect individuals. Security categories are to be used in conjunction with vulnerability and threat information in assessing the risk to an organization resulting from the operation of its systems.
+Special Publication 800-60 Rev. 1 (Volume 1, Volume 2), Guide for Mapping Types of Information and Information Systems to Security Categories, assists Federal agencies in identifying information types and systems and assigning impact levels for confidentiality, integrity, and availability. Impact levels are based on the security categorization definitions in FIPS 199. Special Publication 800-60 contains two volumes. Volume I provides guidelines for identifying impact levels by information type and suggests impact levels for administrative and support information common to multiple agencies. Volume II includes rationale for information type and impact level recommendations and examples of recommendations for agency-specific, mission-related information.
+Risk-Based Approach
+The Risk Management Framework provides a process that integrates security and risk management activities into the system development life cycle. The risk-based approach to security control selection and specification considers effectiveness, efficiency, and constraints due to applicable laws, directives, Executive Orders, policies, standards, or regulations. The following activities related to managing organizational risk are paramount to an effective information security program and can be applied to both new and legacy systems within the context of the system development life cycle and the Federal Enterprise Architecture:
+
+
+
+RMF Implementation Steps:
+Step 0: Prepare
+The purpose of the Prepare step is to carry out essential activities at the organization, mission and business process, and information system levels of the enterprise to help prepare the organization to manage its security and privacy risks using the Risk Management Framework.
+
+Step 1: Categorize
+Categorize the system and the information processed, stored, and transmitted by that system based on an impact analysis. The RMF categorize step, including consideration of legislation, policies, directives, regulations, standards, and organizational mission/business/operational requirements, facilitates the identification of security requirements. FIPS 199 provides security categorization guidance for non-national security systems. CNSS Instruction 1253 provides similar guidance for national security systems.
+
+Step 2: Select
+Select an initial set of baseline security controls for the system based on the security categorization; tailoring and supplementing the security control baseline as needed based on organization assessment of risk and local conditions. NIST Special Publication 800-53 Revision 4 provides security control selection guidance for non-national security systems. CNSS Instruction 1253 provides similar guidance for national security systems
+
+Step 3: Implement
+Implement the security controls and document how the controls are deployed within the system and environment of operation. NIST Special Publication 800-53A Revision 4 provides security control assessment procedures for security controls defined in NIST Special Publication 800-53.
+
+Step 4: Assess
+Assess the security controls using appropriate procedures to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system.
+
+Step 5: Authorize
+Authorize system operation based upon a determination of the risk to organizational operations and assets, individuals, other organizations and the Nation resulting from the operation of the system and the decision that this risk is acceptable. Assess the security controls using appropriate procedures to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system.
+
+Step 6: Monitor
+Monitor and assess selected security controls in the system on an ongoing basis including assessing security control effectiveness, documenting changes to the system or environment of operation, conducting security impact analyses of the associated changes, and reporting the security state of the system to appropriate organizational officials. NIST Special Publication 800-37 Revision 2 provides guidance on monitoring the security controls in the environment of operation, the ongoing risk determination and acceptance, and the approved system authorization to operated status.
+
+Enterprise Mission Assurance Support Service (eMASS)
+eMASS is a web-based Government off-the-shelf (GOTS) solution that automates a broad range of services for comprehensive, fully-integrated cybersecurity management, including controls scorecard measurement, dashboard reporting, and the generation of Risk Management Framework (RMF) for Department of Defense (DOD) Information Technology (IT) and Risk Management Framework (RMF) Package Reports. eMASS provides an integrated suite of authorization capabilities and prevents cyber-attacks by establishing strict process control mechanisms for obtaining authority to connect information systems to DOD networks.
+
+Capabilities
+Automated generation of required DIACAP and RMF reports. Automated calculation and reporting of monthly SECDEF Cybersecurity Scorecard metrics (Evaluate and Approve Systems; Close Security Weaknesses) to the Enterprise Reporting Service (ERS)
+Enterprise level visibility of all authorization packages offering comprehensive organizational security postures.
+Management of all cybersecurity compliance activities and automation of the workflow process from system registration through system decommissioning.
+Maintenance of an enterprise baseline for security controls, which is stored in the eMASS repository and updated with industry standards.
+Fully automated inheritance allows systems to inherit security control statuses, artifacts, test results, and view system security postures from other CC/S/A's or systems.
+eMASS integration with Continuous Monitoring Risk Scoring (CMRS) automatically populates Device and Scan Result data into eMASS Assets module and prioritizes RMF A&A and asset management actions.
+Allows product teams, testers, and security control assessors to effectively collaborate and execute security assessments from geographically dispersed locations with Integrated Project Teams.
+eMASS Cybersecurity Strategy
+Empowers the cybersecurity workforce through its control-requirements wizard, intuitive user interface, linear workflows, integrated computer based training capability, and auto generation of security compliance package reports. This process automation enables more time spent on securing the network and not interpreting the policy. Through improved cyber-situational awareness, eMASS enables managers to readily identify vulnerabilities and make decisions concerning cybersecurity resources and program needs. Through its central management and governance of an enterprise's cyber policy, eMASS promotes speedy delivery of policy changes and dramatically improves the cycle time to effect these changes directly through to individual teams.
+
+The purpose of this course is to provide people new to risk management with an overview of a methodology for managing organizational risk, the Risk Management Framework (RMF).
+
+The RMF was developed by the National Institute for Standards and Technology (NIST) to help organizations manage risks to and from Information Technology (IT) systems more easily, efficiently and effectively.
+
+This course describesat a high-levelthe importance of establishing an organization-wide risk management program, the information security legislation related to organizational risk management, the steps in the RMF, and the NIST publications related to each step.
