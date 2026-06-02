@@ -1,0 +1,64 @@
+Lesson 11: Website Security
+Lesson 11: Website Security
+What is website security?
+
+Website security refers to the protection of personal and organizational public-facing websites from cyberattacks.
+
+Why should I care about website security?
+
+Cyberattacks against public-facing websites—regardless of size—are common. An attack to your website could
+
+Cause defacement,
+Cause a denial-of-service (DoS) condition,
+Enable the attacker to obtain sensitive information, or
+Enable the attacker to take control of the affected website.
+Organization and personal websites that fall victim to defacement or DoS may experience financial loss due to eroded user trust or a decrease in website visitors.
+
+A cyberattack that causes a data breach places your company’s intellectual property and your users’ personally identifiable information (PII) at risk of theft.
+
+Cyber criminals may attack websites because of financial incentives such as the theft and sale of intellectual property and PII, ransomware payouts, and cryptocurrency mining (see Defending against Illicit Cryptocurrency Mining Activity). Cyber criminals may also be motivated to attack websites for ideological reasons, e.g., to gain publicity and notoriety for a terrorist organization through defacing a government website.
+
+What security threats are associated with websites?
+
+Possible cyberattacks against your website include those commonly reported in the media, such as website defacement and DoS—which make the information services provided by the website unavailable for users (see Understanding Denial-of-Service Attacks). An even more severe website attack scenario may result in the compromise of customer data (e.g., PII). These threats affect all aspects of security—confidentiality, integrity, and availability—and can gravely damage the reputation of the website and its owner.
+
+A more subtle attack—one that may not be immediately evident to the website’s owner or user—occurs when an attacker pivots from a compromised web server to the website owner’s corporate network, which contains an abundance of sensitive information that may be at risk of exposure, modification, or destruction. Once an attacker uses a compromised website to enter a corporate network, other assets may be available to the attacker, including user credentials, PII, administrative information, and technical vulnerabilities. Additionally, by compromising the website platform, an attacker may be able to repurpose the website infrastructure as a platform from which they can launch attacks against other systems.
+
+How can I improve my cybersecurity protection against website attacks?
+
+Organizations and individuals can protect their websites by applying the following the best practices to their web servers:
+
+Implement the principle of least privilege. Ensure that all users have the least amount of privilege necessary on the web server (including interactive end users and service accounts).
+Use multifactor authentication. Implement multifactor authentication for user logins to web applications and the underlying website infrastructure.
+Change default vendor usernames and passwords. Default vendor credentials are not secure—they are usually readily available on the internet. Changing default usernames and passwords will prevent an attack that leverages default credentials.
+Disable unnecessary accounts. Disable accounts that are no longer necessary, such as guest accounts or individual user accounts that are no longer in use.
+Use security checklists. Audit and harden configurations based on security checklists specific to each application (e.g., Apache, MySQL) on the system.
+Use application whitelisting. Use application whitelisting and disable modules or features that provide capabilities that are not necessary for business needs.
+Use network segmentation and segregation. Network segmentation and segregation makes it more difficult for attackers to move laterally within connected networks. For example, placing the web server in a properly configured demilitarized zone (DMZ) limits the type of network traffic permitted between systems in the DMZ and systems in the internal corporate network.
+Know where your assets are. You must know where your assets are in order to protect them. For example, if you have data that does not need to be on the web server, remove it to protect it from public access.
+Protect the assets on the web server. Protect assets on the web server with multiple layers of defense (e.g., limited user access, encryption at rest).
+Practice healthy cyber hygiene.
+o Patch systems at all levels—from web applications and backend database applications, to operating systems and hypervisors.
+
+o Perform routine backups, and test disaster recovery scenarios.
+
+o Configure extended logging and send the logs to a centralized log server.
+
+What are some additional steps I can take to protect against website attacks?
+
+Sanitize all user input. Sanitize user input, such as special characters and null characters, at both the client end and the server end. Sanitizing user input is especially critical when it is incorporated into scripts or structured query language statements.
+Increase resource availability. Configure your website caching to optimize resource availability. Optimizing your website’s resource availability increases the chance that your website will withstand unexpectedly high amounts of traffic during DoS attacks.
+Implement cross-site scripting (XSS) and cross-site request forgery (XSRF) protections. Protect your website system, as well as visitors to your website, by implementing XSS and XSRF protections.
+Implement a Content Security Policy (CSP). Website owners should also consider implementing a CSP. Implementing a CSP lessens the chances of an attacker successfully loading and running malicious JavaScript on the end user machine.
+Audit third-party code. Audit third-party services (e.g., ads, analytics) to validate that no unexpected code is being delivered to the end user. Website owners should weigh the pros and cons of vetting the third-party code and hosting it on the web server (as opposed to loading the code from the third party).
+Implement hypertext transfer protocol secure (HTTPS) and HTTP strict transport security (HSTS). Website visitors expect their privacy to be protected. To ensure communications between the website and user are encrypted, always enforce the use of HTTPS, and enforce the use of HSTS where possible. For further information and guidance, see the U.S. Chief Information Officer (CIO) and the Federal CIO Council’s webpage on the HTTPS-Only Standard.
+Implement additional security measures. Additional measures include
+o Running static and dynamic security scans against the website code and system,
+
+o Deploying web application firewalls,
+
+o Leveraging content delivery networks to protect against malicious web traffic, and
+
+o Providing load balancing and resilience against high amounts of traffic.
+
+For additional guidance, visit the Open Web Application Security Project Top 10 Cheat Sheet on common critical risks to web applications, the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-44: Guidelines on Securing Public Web Servers, and NIST SP 800-95: Guide to Secure Web Services. Subscribe to NCCIC Current Activities to stay current on the latest website technology vulnerabilities.
