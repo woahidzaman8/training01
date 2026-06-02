@@ -1,0 +1,214 @@
+Lesson 3: Security Planning
+Lesson 3: Security Planning
+LESSON OVERVIEW AND OBJECTIVES
+
+The objective of system security planning is to improve protection of information technology (IT) resources. All federal systems have some level of sensitivity; they require protection as part of good management and Cybersecurity practices. The protection of a system must be documented in a system security plan. Incident Response Planning allows for a timely and controlled response to security incidents, and attempts to mitigate any damage or loss.
+
+This module covers the following areas:
+
+Planning
+Incident Response Planning
+PLANNING:
+Plan Your Security to Ensure SUCCESS is Your Objective!
+Identify an appropriate type of security plan
+Design your security to meet those requirements
+Test your security design against the requirements
+Monitor your security requirements for change and retooling
+The purpose of the security plan is to provide an overview of the security requirements of the system and describe the controls in place or planned for meeting those requirements. The system security plan also delineates responsibilities and expected behavior of all individuals who access the system. The security plan should be viewed as documentation of the structured process of planning adequate, cost-effective security protection for a system. It should reflect input from various managers with responsibilities concerning the system, including, but not limited to, information owners, system operators, system administrators, information assurance security officers, and stakeholders.
+
+Security Planning: Security Must Be Flexible/ Agile
+
+
+To evaluate systems under the following conditions:
+
+Various life-cycle stages
+Systems under evolutionary development
+Single purpose or legacy systems
+Security plans are living documents that require periodic reviews, modifications, and milestone or completion dates for planned controls.
+
+Procedures should be in place outlining who reviews the plans and follows up on planned controls.
+Once completed, a security plan will contain technical information about the system, its security requirements, and the controls implemented to provide protection against risks and vulnerabilities/ weaknesses.
+
+Characteristics of a Security Plan:
+
+Army mission requirements are diverse; therefore, Security plans must possess the following characteristics of flexibility:
+
+Tailorable: The security process is applicable to any system, regardless of the system status in its life cycle or shift in program strategy.
+Scalable: The security process is applicable to systems differing in security requirements, size, complexity, connectivity, and data policies.
+Predictable: The security process is uniformly applicable to any system and minimizes personal opinion and subjectivity.
+Understandable: The security process provides the participants with a consistent view of the security requirement compliance of the system
+Relevant: The security process facilitates the identification of security requirements and solutions that are achievable (available, affordable, and within the context of the development approach, IA strategies, and mission needs).
+Repeatable: The security process provides corresponding results when applied or reapplied to similar ISs.
+Effective: The security process results in and maintains an accreditation for the target system.
+Evolvable: The security process allows for the incorporation of lessons learned, as well as changes in security policy and technology, in a manner that meets the time schedule of the mission.
+Responsive: The security process accommodates timely responses essential for supporting emergent Military Department (MILDEP) and national operational requirements and priorities.
+The Security Process
+
+System Boundaries
+
+Define what constitutes a system:
+
+Direct management control
+Coordinated function or mission objective
+Coordinated operating characteristics and security needs
+Coordinated general operating environment
+Hints:
+
+Have at least one system administrator assigned in writing as the system administrator for that system.
+It is easier to design security if the system is identified by function.
+If your system boundaries go beyond your location, plan security for that which you control and coordinate security separately on that which you cannot control. Treat system components that are external to you as external systems. Coordinate their security with personnel in direct contact with them.
+Determine the Environment
+
+Connected to the Internet
+Located in a harsh or overseas environment
+Software rapidly implemented
+Software resides on an open network, accessed by the public or with overseas access
+Application is processed at a facility outside of the organization's control
+Dial up access exists
+These are just some of the items that make up the environment that determines your security needs. Risk is found within our environment. If we control our environment, we control our risk.
+
+Handy formula: Risk = Threat x Vulnerabilities x Asset = [TVA]
+
+In the formula, Asset is the value of your data. If your data is worthless, your risk will be zero. Vulnerabilities are the holes in your system, procedures or software. If you have no vulnerabilities, your risk is zero. Threats are those dangers in your environment. If there are no threats to your data, your risk is zero.
+
+System Interconnections
+
+All interconnections should be addressed with Memorandums of Understanding (MOUs), Memorandums of Agreement (MOAs) or Letters of Instruction (LOIs). An agreement needs to be in place between each party where each party's security requirements are spelled out.
+
+The Security Plan needs to address concerns and rules of behavior of the interconnected systems that need to be considered in the protection of the system.
+
+Things to consider:
+
+Does the exterior organization own or control the interconnected system?
+What types of connections are used? (TCP/IP, Dial, SNA, etc.)
+Where does one systems security responsibility stop and another's start
+Security Control Areas
+
+Security is something you can control. It is up to you to decide upon the level of risk that you will accept. We control security through proper planning and by setting up various control features to minimize our risk. There are management controls, operational controls, and technical controls. Here is a brief explanation of those control areas:
+
+Management Control:
+
+Risk Management: The total process of identifying, measuring, controlling, and minimizing or reducing the security risk incurred by an IS to a level commensurate with the value of the assets protected. Risks are generally defined as the coexistence of a threat and a point of vulnerability.
+
+Security Controls: In Accordance With (IAW) OMB Circular A-130, must be reviewed every three years. Reviews can be done internally or externally. System security may degrade over time, as the technology changes, the system evolves, or people and procedures change. Periodic reviews provide assurance that management, operations, personnel, and technical controls are functioning effectively and providing adequate levels of protection.
+
+Life Cycle: Security planning can be done during any point of the Life-Cycle of a system. The recommended approach is to draw up the security plan at the beginning of a system Life-Cycle. The plan needs to address the phasing in and out of the new and old components and/or systems as changes in technology, mission, and acquisition dictate.
+
+Assess and Authorize (A&A): A&A provides a form of quality control. The DODI 8510.01, the Risk Management Framework (RMF) for DoD Information Technology (IT) provides the format for this process. It is no coincidence that it evolves around the same three-year concept as required by OMB Circular A-130. It is also referred to as "authorizing processing". By authorizing processing in a system, a manager accepts the risk associated with it. This forces managers and technical staff to find the best fit for security, given technical constraints, operational constraints, and mission requirements. Below are the minimum-security controls that must be in place prior to authorizing a system for processing.
+
+Technical and/or security evaluation complete
+Risk assessment conducted
+Rules of behavior established and signed by users
+Contingency plan developed and tested
+Security plan developed, updated, and reviewed
+System meets all applicable federal laws, regulations, policies, guidelines, and standards
+In-place and planned security safeguards appear to be adequate and appropriate for the system
+In-place safeguards are operating as intended
+Security Plan: The security plan, if properly created, maintained, and disseminated, provides the foundation for a risk based approach. The security plan will contain information about all three control areas.
+
+Operational Controls
+
+Personnel Security: The greatest harm/disruption to a system comes from the actions of individuals both intentional and unintentional. Individuals should be assigned the least amount of privilege required to function. Critical functions should be divided among different individuals. Develop a process for requesting, establishing, issuing, and closing user accounts.
+
+Physical Security: Physical security should address access controls to the area containing system hardware and data, wiring closets, and along the wiring path, electrical power, back up media, and any other elements required by the system to operate.
+
+Production Input/Output Controls: Production input/ output controls are the procedures to handle help desk needs, theft of printed data, authorized deliveries and pick-ups, audit trail integrity, privacy act concerns, media storage, electronic sanitizing, and destruction of sensitive hardcopy media.
+
+Contingency Planning: Contingency planning allows for recovery of data and/or systems regardless of cause of disruption.
+
+Hardware and Systems Software Maintenance: Controls should be in place to monitor and prohibit the unauthorized installation of hardware components or software. Software configuration policy or Configuration Management procedures should be in effect.
+
+Data Integrity: Data integrity tools are used to protect data from accidental or malicious alteration or destruction and to provide assurance to the user that the information meets expectations about its quality and that it has not been altered.
+
+Documentation: Documentation explains how hardware/software is to be used and to formalize security and operational procedures specific to the system.
+
+Security Awareness Training: Training is a mandatory requirement set forth in the Computer Security Act. Training is a mandatory requirement prior to system access and also on a periodic basis for continued access.
+
+Incident Response Capability: Procedures must be put in place which provide for an incident response capability. The incident reporting chain should be known to all users.
+
+Technical Control
+
+Identification and Authorization: Identification and authorization is a technical measure that prevents unauthorized people/processes from entering an IT system. Access control is often based on "least privilege".
+
+Logical Access Controls: Logical access controls are the system-based mechanisms used to specify who or what is to have access to a specific system resource and the type of access that is permitted.
+
+Audit Trails: Audit trails maintain a record of system activity by system or application processes and by user activity. Audit trails can provide a means to help accomplish several security-related objectives, including individual accountability, reconstruction of events, intrusion detection, and problem identification.
+
+Security Plan - Final Draft
+
+DoD IS and PIT systems must have a security plan that provides an overview of the security requirements for the system and describes the security controls in place or planned for meeting those requirements. The security plan should include implementation status, responsible entities, resources, and estimated completion dates. Security plans may also include, but are not limited to, a compiled list of system characteristics or qualities required for system registration, key security-related documents such as a risk assessment, privacy impact assessment, system interconnection agreements, contingency plan, security configurations, configuration management plan, and incident response plan.
+
+Recommended Guidance Sources:
+
+NIST Special Publication 800-53 (Rev. 4) Recommended Security Controls for Federal Information Systems and Organizations
+
+NIST Special Publication 800-53A (Rev. 4) Guide for Assessing the Security Controls in Federal Information Systems
+
+NIST Special Publication 800-18 (Rev. 1) Guide for Developing Security Plans for Information Technology Systems
+
+NIST stands for: National Institute of Standards and Technology
+
+INCIDENT REPONSE PLANNING:
+
+The incident response portion of computer security has become an important piece of information technology (IT) preparedness. Network and computer security threats grow more numerous and diverse and have become more damaging and disruptive. New types of security-related incidents emerge frequently. Doing proper risk assessments and managing and mitigating those risks can lower the number of incidents, but not all incidents can be prevented. An incident response capability is therefore necessary for rapidly detecting incidents, minimizing loss and destruction, mitigating the weaknesses that were exploited, and restoring computing services.
+
+Preventing problems is normally less costly and more effective than reacting to them after they occur. Thus, incident prevention is an important complement to an incident response capability. If security controls are insufficient, high volumes of incidents may occur, overwhelming the resources and capacity for response. This would result in delayed or incomplete recovery and possibly more extensive damage and longer periods of service and data unavailability. Incident handling can be performed more effectively if organizations complement their incident response capability with adequate resources to actively maintain the security of networks, systems, and applications, freeing the incident response team to focus on handling serious incidents.
+
+Incident response is a 24x7 undertaking and can be very complex. Proper incident response requires substantial planning and resources. Constant vigilance and continual monitoring of threats through intrusion detection systems (IDS) and other mechanisms is essential. Establishing clear and concise procedures for assessing the current and potential mission impact of incidents is critical, as is effectively collecting, analyzing, and reporting data. Establishing relationships and lines of communication with other incident response teams, law enforcement, and legal personnel are also important
+
+Indications of an incident fall into two categories: indications and precursors. A precursor is a sign that an incident may occur in the future. An indication is a sign that an incident may have occurred or may be occurring now. Too many types of indications exist to exhaustively list them, but some examples are listed below:
+
+The network intrusion detection sensor alerts when a buffer overflow attempt occurs against an FTP server.
+The antivirus software alerts when it detects that a host is infected with a worm.
+The Web server crashes.
+Users complain of slow access to hosts on the Internet.
+The system administrator sees a filename with unusual characters.
+The user calls the help desk to report a threatening e-mail message.
+The host records an auditing configuration change in its log.
+The application logs multiple failed login attempts from an unfamiliar remote system.
+The e-mail administrator sees a large number of bounced e-mails with suspicious content.
+The network administrator notices an unusual deviation from typical network traffic flows.
+One should not think of incident detection as being strictly reactive. In some cases, the organization can detect activities that are likely to precede an incident. For example, a Network-based IDS (NIDS) sensor may record unusual port scan activity targeted at a group of hosts, which occurs shortly before a Denial of Service (DoS) attack is launched against one of the same hosts. The intrusion detection alerts regarding the scanning activity serve as a precursor of the subsequent DoS incident. Other examples of precursors are as follows:
+
+Web server log entries that show the usage of a Web vulnerability scanner
+An announcement of a new exploit that targets a vulnerability of the organization’s mail server
+Information stating that the Unit will receive a cyber attack
+Not every attack can be detected through precursors. Some attacks have no precursors, whereas other attacks generate precursors that the organization fails to detect. If precursors are detected, the organization may have an opportunity to prevent the incident by altering its security posture through automated or manual means to save a target from attack. In the most serious cases, the organization may decide to act as if an incident is already occurring, so that the risk is mitigated quickly. At a minimum, the organization can monitor certain activity more closely—perhaps connection attempts to a particular host or a certain type of network traffic.
+
+Establishing an incident response capability should include the following actions:
+
+Creating an Incident Response (IR) policy that incorporates Cybersecurity Service Provider local policies and procedures
+Developing procedures for performing incident handling and reporting, based on the incident response policy
+Setting guidelines for communicating with outside parties regarding incidents
+Identifying key personnel
+Training the Incident Response team
+Organizing an effective computer security incident response capability involves several major decisions and actions. One of the first considerations should be to create an organization-specific definition of the term “incident” so that the scope of the term is clear. Incident response policy and procedure creation is an important part of establishing a team, so that incident response is performed effectively, efficiently, and consistently. The policies and procedures should reflect the team’s interactions with other teams within the organization as well as with outside parties, such as the Regional Cyber Center, law enforcement and other incident response organizations.
+
+Your local Service Provider Tech Team personnel will have established certain procedures to follow if you think you have a compromised computer.
+
+DO
+Disconnect the system from the network.
+If the system is an IRIX or Sun Solaris system leave the network cable plugged into the machine and plug the distant end of the network cable into a hub which is not connected to anything else. Only when no hub is available unplug the network cable from the machine.
+Contact your supporting IMO, ISSM/ISSO, and Service Provider Help Deskimmediately!!!
+Restrict physical access to the system until additional guidance is provided by your supporting Service Provider Help Desk or CID.
+When the Service Provider Help Desk or CID asks for the log collector the network cable must be re-connected to the network before the log collector is run to ensure that the most information available is collected.
+DON'T
+Continue to look for more evidence without being instructed to do so by CID.
+Turn the system off or reboot the computer.
+Allow anyone access to the system in any way until told to do so by your supporting NEC Help Desk or CID.
+Finger or attempt to contact the source directly.
+Alter or change anything on the suspect system.
+Connect to the system over the network.
+Procedures to follow if your computer is infected with a virus.
+
+DO
+Disconnect the system from the network.
+Contact your supporting IMO, ISSM/ISSO, and Service Provider Help Deskimmediately!!!
+Provide any information about the virus, Trojan or worm that your antivirus detected to your supporting Service Provider Help Desk.
+DON'T
+Continue to look for more evidence without being instructed to do so.
+Turn the system off or reboot the computer.
+Try to clean or repair the infected system or files.
+Move infected system or data to another system or network.
+Connect to the system over the network.
+Attempt to back up any of the files on the computer.
