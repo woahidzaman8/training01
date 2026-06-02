@@ -1,0 +1,20 @@
+Lesson 13: Defending Cell Phones and PDAs Against Attack
+Lesson 13: Defending Cell Phones and PDAs Against Attack
+What unique risks do cell phones and PDAs present?
+
+Most current cell phones have the ability to send and receive text messages. Some cell phones and PDAs also offer the ability to connect to the Internet. Although these are features that you might find useful and convenient, attackers may try to take advantage of them. As a result, an attacker may be able to accomplish the following:
+
+Abuse your service ' Most cell phone plans limit the number of text messages you can send and receive. If an attacker spams you with text messages, you may be charged additional fees. An attacker may also be able to infect your phone or PDA with malicious code that will allow them to use your service. Because the contract is in your name, you will be responsible for the charges.
+Lure you to a malicious web site ' While PDAs and cell phones that give you access to email are targets for standard phishing attacks, attackers are now sending text messages to cell phones. These messages, supposedly from a legitimate company, may try to convince you to visit a malicious site by claiming that there is a problem with your account or stating that you have been subscribed to a service. Once you visit the site, you may be lured into providing personal information or downloading a malicious file. (See Avoiding Social Engineering and Phishing Attacks for more information.)
+Use your cell phone or PDA in an attack ' Attackers who can gain control of your service may use your cell phone or PDA to attack others. Not only does this hide the real attacker's identity, it allows the attacker to increase the number of targets. (See Understanding Denial-of-Service Attacks.)
+Gain access to account information ' In some areas, cell phones are becoming capable of performing certain transactions (from paying for parking or groceries to conducting larger financial transactions). An attacker who can gain access to a phone that is used for these types of transactions may be able to discover your account information and use or sell it.
+What can you do to protect yourself?
+
+Follow general guidelines for protecting portable devices ' Take precautions to secure your cell phone and PDA the same way you should secure your computer. (See Cybersecurity for Electronic Devices and Protecting Portable Devices: Data Security.)
+Be careful about posting your cell phone number and email address ' Attackers often use software that browses web sites for email addresses. These addresses then become targets for attacks and spam. (See Reducing Spam for more information.) Cell phone numbers can be collected automatically, too. By limiting the number of people who have access to your information, you limit your risk of becoming a victim.
+Do not follow links sent in email or text messages ' Be suspicious of URLs sent in unsolicited email or text messages. While the links may appear to be legitimate, they may actually direct you to a malicious web site.
+Be wary of downloadable software ' There are many sites that offer games and other software you can download onto your cell phone or PDA. This software could include malicious code. Avoid downloading files from sites that you do not trust. If you are getting the files from a supposedly secure site, look for a web site certificate. (See Understanding Web Site Certificates.) If you do download a file from a web site, consider saving it to your computer and manually scanning it for viruses before opening it.
+Evaluate your security settings ' Make sure that you take advantage of the security features offered on your device. Attackers may take advantage of Bluetooth connections to access or download information on your device. Disable Bluetooth when you are not using it to avoid unauthorized access. (See Understanding Bluetooth Technology for more information.)
+Authors
+
+US-CERT Publications
