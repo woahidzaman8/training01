@@ -1,0 +1,72 @@
+Lesson 16: Ransomware
+Lesson 16: Ransomware
+Someone in your company gets an email.
+
+It looks legitimate - but with one click on a link, or one download of an attachment, everyone is locked out of your network. That link downloaded software that holds your data hostage. That's a ransomware attack.
+
+The attackers ask for money or cryptocurrency, but even if you pay, you don't know if the cybercriminals will keep your data or destroy your files. Meanwhile, the information you need to run your business and sensitive details about your employees, and company are now in criminal hands. Ransomware can take a serious toll on your business.
+
+How it Happens
+
+Criminals can start a ransomware attack in a variety of ways.
+
+
+
+Scam emails
+
+With links and attachments that put your data and network at risk. These phishing emails make up most ransomware attacks.
+
+
+
+Server vulnerabilities
+
+Which can be exploited by hackers.
+
+
+
+Infected websites
+
+That automatically download malicious software onto your computer.
+
+
+
+Online ads
+
+That contain malicious code - even on websites you know and trust.
+
+How To Protect Your Organization
+
+
+Have a plan
+
+How would your organization stay up and running after a ransomware attack? Put this plan in writing and share it with everyone who needs to know.
+
+
+
+Back up your data
+
+Regularly save important files to a drive or server that's not connected to your network. Make data backup part of your routine business operations.
+
+
+
+Keep your security up to date
+
+Always install the latest patches and updates. Look for additional means of protection, like email authentication, and intrusion prevention software, and set them to update automatically on your computer. On mobile devices, you may have to do it manually.
+
+
+
+Alert your staff
+
+Teach them how to avoid phishing scams and show them some of the common ways computers and devices become infected. Include tips for spotting and protecting against ransomware in your regular orientation and training.
+
+What To Do If You're Attacked
+Limit the damage
+
+Immediately disconnect the infected computers or devices from your network. If your data has been stolen, take steps to protect your company and notify those who might be affected.
+
+Contact your Cybersecurity Division
+
+Notify customers
+
+If your data or personal information was compromised, make sure you notify the affected parties' - they could be at risk of identity theft. Find information on how to do that at Data Breach Response: A Guide for Business.
+
