@@ -1,0 +1,61 @@
+Lesson 18: Understanding Digital Signatures
+Lesson 18: Understanding Digital Signatures
+What is a digital signature?
+
+A digital signature-a type of electronic signatureis a mathematical algorithm routinely used to validate the authenticity and integrity of a message (e.g., an email, a credit card transaction, or a digital document). Digital signatures create a virtual fingerprint that is unique to a person or entity and are used to identify users and protect information in digital messages or documents. In emails, the email content itself becomes part of the digital signature. Digital signatures are significantly more secure than other forms of electronic signatures.
+
+Why would you use a digital signature?
+
+Digital signatures increase the transparency of online interactions and develop trust between customers, business partners, and vendors.
+
+How do digital signatures work?
+
+Before you can understand how a digital signature works, there are some terms you should know:
+
+Hash Function - A hash function (also called a "hash") is a fixed-length string of numbers and letters generated from a mathematical algorithm and an arbitrarily sized message such as an email, document, picture, or other type of data. This generated string is unique to the file being hashed and is a one-way function- this means a computed hash cannot be reversed to find other files that may generate the same hash value. Some of the more popular hashing algorithms in use today are Secure Hash Algorithm-1 (SHA-1), the Secure Hashing Algorithm-2 family (SHA-2 and SHA-256), and Message Digest 5 (MD5).
+Public Key Cryptography - Public key cryptography (also known as asymmetric encryption) is a cryptographic method that uses a key pair system. One key, called the private key, encrypts the data and is kept secret. The other key, called the public key, decrypts the data and is distributed openly to others. Public key cryptography can be used several ways to ensure confidentiality, integrity, and authenticity. Public key cryptography can
+o Ensure integrity by creating a digital signature of the message using the sender's private key. This is done by hashing the message and encrypting the hash value with their private key. By doing this, any changes to the message will result in a different hash value.
+
+o Ensure confidentiality by encrypting the entire message with the recipient's public key. This means that only the recipient, who is in possession of the corresponding private key, can read the message.
+
+o Verify the user's identity using the public key and checking it against a certificate authority.
+
+Public Key Infrastructure - Public key infrastructure (PKI) consists of the policies, standards, people, and systems that support the distribution of public keys and the identity validation of individuals or entities with digital certificates and a certificate authority.
+Certificate Authority - A certificate authority (CA) is a trusted third party that validates a person's identity and either generates a public/private key pair on their behalf or associates an existing public key provided by the person to that person. Once a CA validates someone's identity, they then issue that person a digital certificate that is digitally signed by the CA. The digital certificate can then be used to verify a person associated with a public key when requested.
+Digital Certificates - Digital certificates are analogous to driver licenses in that their purpose is to identify the holder of a certificate. Digital certificates contain the public key of the individual or organization and are digitally signed by a certificate authority. Other information about the organization, individual, and certificate authority can be included in the certificate as well.
+Pretty Good Privacy (PGP)/OpenPGP - PGP/OpenPGP is an alternative to PKI. With PGP/OpenPGP, users "trust" other users by signing certificates of people with verifiable identities. The more interconnected these signatures are, the higher the likelihood of verifying a particular user on the internet. This concept is called the "Web of Trust."
+Digital signatures work by proving that a digital message or document was not modified-intentionally or unintentionally-from the time it was signed. Digital signatures do this by generating a unique hash of the message or document and encrypting it using the sender's private key. The hash generated is unique to the message or document, and changing any part of it will completely change the hash.
+
+Once completed, the message or digital document is digitally signed and sent to the recipient. The recipient then generates their own hash of the message or digital document and decrypts the sender's hash (included in the original message) using the sender's public key. The recipient compares the hash they generate against the sender's decrypted hash; if they match, the message or digital document has not been modified and the sender is authenticated.
+
+Why should you use PKI or PGP with digital signatures?
+
+Using digital signatures in conjunction with PKI or PGP strengthens them and alleviates the possible security issues connected to transmitting public keys, validating that the key belongs to the sender, and verifying the identity of the sender. The security of a digital signature is almost entirely dependent on how well the private key is protected. Without PGP or PKI, proving someone's identity or revoking a compromised key is impossible, and could allow malicious actors to impersonate someone without any method of repudiation.
+
+Through the use of a trusted third party, digital signatures can be used to identify and verify individuals and ensure the integrity of the message.
+
+As paperless, online interactions are used more widely, digital signatures can help you secure and safeguard the integrity of your data. By understanding how digital signatures work, you are in a position to better protect your information, documents, and transactions.
+
+What is encryption?
+
+In very basic terms, encryption is a way to send a message in code. The only person who can decode the message is the person with the correct key; to anyone else, the message looks like a random series of letters, numbers, and characters.
+
+Encryption is especially important if you are trying to send sensitive information that other people should not be able to access. Because email messages are sent over the internet and might be intercepted by an attacker, it is important to add an additional layer of security to sensitive information.
+
+How is it different from digital signatures?
+
+Like digital signatures, public-key encryption utilizes software such as PGP, converts information with mathematical algorithms, and relies on public and private keys, but there are differences:
+
+The purpose of encryption is confidentiality-concealing the content of the message by translating it into a code. The purpose of digital signatures is integrity and authenticity-verifying the sender of a message and indicating that the content has not been changed. Although encryption and digital signatures can be used independently, you can also sign an encrypted message.
+When you sign a message, you use your private key, and anybody who has your public key can verify that the signature is valid (see Understanding Digital Signatures for more information). When you encrypt a message, you use the public key for the person you're sending it to, and his or her private key is used to decrypt the message. Because people should keep their private keys confidential and should protect them with passwords, the intended recipient should be the only one who is able to view the information.
+How does encryption work?
+
+1. Obtain the public key for the person you want to be able to read the information. If you get the key from a public key ring, contact the person directly to confirm that the series of letters and numbers associated with the key is the correct fingerprint.
+
+2. Encrypt the email message using their public key. Most email clients have a feature to easily perform this task.
+
+3. When the person receives the message, he or she will be able to decrypt it.
+
+Authors
+Mindi McDowell
+NCCIC
