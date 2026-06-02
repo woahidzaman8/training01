@@ -1,0 +1,84 @@
+Lesson 4: Army Cybersecurity Training Program
+Lesson 4: Army Cybersecurity Training Program
+Lesson Overview/Objectives:
+
+One of the duties of the Information System Security Manager ISSM is to develop the organization's cybersecurity program, which must address cybersecurity architecture, requirements, objectives and policies; cybersecurity personnel; and cybersecurity processes and procedures. ISSMs ensure that ISSOs are appointed in writing. They provide ISSOs direction, in accordance with DODI 8500.01, and ensure that ISSOs are following established cybersecurity policies and procedures. In this lesson you will learn about the Cybersecurity training that is required for all personnel associated with an IS.
+
+CS training and certification
+CS situation and awareness briefing
+DA PAM 25-2-6, (Army Cybersecurity Training and Certification Program)
+Why Cybersecurity Training and Certification?
+
+People are a crucial factor in ensuring the security of computer systems and valuable information resources. Human actions account for a far greater degree of computer-related loss than all other sources combined. Of such losses, the actions of an organization's insiders normally cause far more harm than the actions of outsiders.
+
+The major causes of loss due to an organization's own employees are: errors and omissions, fraud, and actions by disgruntled employees. One principal purpose of cybersecurity awareness, training, and education is to reduce errors and omissions. However, it can also reduce fraud and unauthorized activity by disgruntled employees by increasing employees' knowledge of their accountability and the penalties associated with such actions.
+
+Army personnel conducting cybersecurity awareness, education and training must perform their cybersecurity related duties and responsibilities consistent with related DOD and Army issuances. Certification and training requirements are established by a combination of DoD 8570.01-M and DoDD 8140.01, which identifies and categorizes CS workforce positions/workroles, and by DAPAM 25-2-6, Cybersecurity Training and Certification Program , which defines the training and certification requirements for those positions.
+
+Sources of training material
+
+Resources are located at https://armypubs.army.mil/, https://niccs.us-cert.gov/workforce-development/cybersecurity-resources and, your unit's procedures and policy publications. You will find that your unit's IS accreditation documents and contingency plans have a wealth of material. Also, this course provides much useful information.
+
+Cybersecurity Training
+
+AR 25-2 directs that all authorized users must complete the Cyber Awareness Challenge training as a condition of network access prior to accessing Department of the Army information and Information Systems and annually thereafter. .
+
+In addition to DOD-mandated cybersecurity awareness training, organizations will provide Army-specific, mission-specific, and system-specific orientation, training, awareness, and reinforcement programs to authorized users of IT. Appropriate awareness for management officials might stress management's pivotal role in establishing organizational attitudes toward security. Appropriate awareness for other groups, such as system programmers or information analysts, should address the need for security as it relates to their job. In today's systems environment, almost everyone in an organization may have access to system resources and therefore may have the potential to cause harm.
+
+Awareness is used to reinforce the fact that security supports the mission of the organization by protecting valuable resources. If employees view security as just bothersome rules and procedures, they are more likely to ignore them. In addition, they may not make needed suggestions about improving security nor recognize and report security threats and vulnerabilities.
+
+Awareness is also used to remind people of basic security practices, such as logging off a computer system or locking doors.
+
+A Cybersecurity awareness program can use many teaching methods, including video tapes, newsletters, posters, bulletin boards, flyers, demonstrations, briefings, short reminder notices at logon, talks, or lectures. Even electronic mail messages with tips and reminders have a noticeable impact. Today, some units are using web pages to make their users more aware about security.
+
+Awareness is often incorporated into basic cybersecurity training. Effective cybersecurity awareness programs need to be designed with the recognition that people tend to practice a tuning out process (also known as acclimation). For example, after a while, a cybersecurity poster, no matter how well designed, will be ignored; it will, in effect, simply blend into the environment. For this reason, awareness techniques should be creative and frequently changed.
+
+The Defense Information Security Agency (DISA) serves as the DoD Shared Service Center (SSC) for the Office of Management and Budget (OMB)-directed Information System Security Line of Business (ISS LoB) for Tier I Awareness training. The DoD Cyber Awareness Challenge Training is the mandate and must be accessed through the Joint Knowledge On-line or the Cybersecurity Training Center website. Personnel from other services can take the cyber awareness training on their respective portals and provide their completion certificates to their Army's POC.
+
+Generally, the overall goal of a Cybersecurity training program is to sustain an appropriate level of protection for computer resources by increasing employee awareness of their computer security responsibilities and the ways to fulfill them. Both the dissemination and the enforcement of policy are critical issues that are implemented and strengthened through training programs. Employees cannot be expected to demonstrate accountability and to follow policies and procedures of which they are unaware. In addition, enforcing penalties may be difficult if users can claim ignorance when caught doing something wrong.
+Training employees is also necessary to show that a standard of due care has been taken in protecting information. Simply issuing policy, with no follow-up to implement that policy, does not suffice.
+Many organizations use acknowledgment statements which state that employees have read and
+
+Training Documentation
+
+Since various laws, directives, and regulations require information assurance training, it is good practice to maintain records of training, Commands shall use the Army Training and Certification Tracking systems as a means to manage and report cyber awareness completions and status. The ISSM/ISSO and commanders also have a responsibility to ensure that CS training is conducted. This item is inspected during cybersecurity inspection/assessment teams.
+
+Information Assurance Workforce Improvement Program
+DOD 8570.01-M
+DOD 8570.01-M is a manual which implements DoD Directive 8140.01. This manual "provides guidance for the identification and categorization of positions and certification of personnel conducting Cybersecurity functions within the DoD workforce supporting the DoD Global Information Grid (GIG) per DoD Instruction 8500.01
+
+IA Workforce Structure Overview
+
+Those performing CS duties, whether they are a DoD employee (civilian or military) or supporting contractor, must satisfy both preparatory and sustaining DoD CS training and certification requirements. In addition, a "Privileged Access Agreement" must be completed by any personnel with privileged access.
+Categories and specialties within the CS workforce are identified. CS workforce categories include IA Technical (IAT) and IA Management (IAM). IA workforce specialties include Cybersecurity Service Provider (CSSP) formerly called Computer Network Defense Service Providers (CND-SPs) and IA System Architects and Engineers (IASAEs). These categories and specialties are further subdivided into levels based upon functional skill requirements and/or specific system environment focus. Each DoD CS position must be correlated with a category or specialty and level. Functions within a position may span multiple levels. In such cases, certification requirements are based upon the highest level function.
+Specific training and certification requirements have been established for each category, specialty, and skill level. Those individuals in CS positions that do not meet the certification requirements must be reassigned to other duties unless a waiver is granted.
+
+IA Workforce Technical Category
+
+The technical category (IAT) is comprised of levels I, II, & III, which are cumulative in nature. For example, an IAT Level II position requires mastery of the functions of the preceding level (e.g. IAT Level I).
+
+Certification levels are based upon the CS functions of the position. New Government hires and military personnel must achieve the appropriate CS certification within 6 months of being assigned CS functions. IAT Level I certification is mandatory before authorization will be given for unsupervised privileged access. Contractor personnel must be baseline certified upon contract award and have 6 months of appointment to complete the rest of the qualification requirements.
+
+Detailed information of the IAT Level I, II, & III position requirements and functions can be found at DOD 8570.01-M and https://iase.disa.mil/iawip/Pages/iabaseline.aspx.
+
+CS Workforce Management Category
+
+The Management category (IAM) is comprised of levels I, II, & III, which are cumulative in nature. For example, an IAM Level II position requires mastery of the functions of the preceding level (e.g. IAM Level I).
+
+Detailed information of the IAM Level I, II, & III position requirements and functions can be found in the DOD 8570.01-M. https://iase.disa.mil/iawip/Pages/iabaseline.aspx
+
+CS Workforce CSSP (AKA CND) and IASAE Specialty Categories
+
+The specialty categories are comprised of levels and specialty areas (CSSP). Unlike the Technical and Management levels these specialty categories are not cumulative.
+
+CSSP and IASAE category personnel must achieve the appropriate level of CS certification for their level. Furthermore, any CSSP or IASAE positions that performs IAT or IAM functions must obtain the appropriate certification for that category and level.
+
+Detailed information of the CSSP and IASAE position requirements and functions can be found in the. DOD 8570.01-M. https://iase.disa.mil/iawip/Pages/iabaseline.aspx
+
+Cybersecurity Certification
+
+The DoD Approved 8570.01 Baseline Certification chart lists the certification requirements for the CS workforce, technical, specialty, and management levels, which have been defined in DoD 8570.01-M.
+The DoD maintains a total force management perspective to provide qualified cyber government civilian and military personnel to identified and authorized positions, augmented where appropriate by contracted services support. These personnel function as an integrated workforce with complementary skill sets to provide an agile, flexible response to DOD requirements.
+The appropriate mix of military and government civilian positions and contracted support designated to perform cyber work roles is determined in accordance with DoD Instruction (DoDI) 1100.22.
+Civilian, military, and contracted support personnel assigned to perform cybersecurity work roles must meet qualification standards established in supporting issuances, in addition to other existing workforce qualification and training requirements assigned to billets and position requirements (e.g., acquisition, intelligence, communications). DoD Component contracting officials apply subpart 239.71 of the Defense Federal Acquisition Regulation Supplement for contracted support designated to perform cyber workforce work roles The DoD Approved 8570 Baseline Certification table is located at DoD Approved 8570 Baseline Certifications
+All personnel appointed in Cybersecurity positions must take the Cybersecurity Fundamental training every 3 years IAW DA PAM 25-2-6, Army Training and Certification Department of the Army Pamphlet
