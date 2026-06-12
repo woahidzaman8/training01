@@ -1,0 +1,2883 @@
+Sailpoint Health Check Task Attributes 
+
+Attribute	Value 
+
+Processing Summary	 
+
+Executing SailPoint Health Check Info Rule: version 20211109 
+
+  Start Time: Jun 9, 2026 
+
+ 
+
+ 
+
+IIQ Installation Statistics 
+
+*************************** 
+
+Identity Statistics: 
+
+Item #4 of the memo:  Total Identities: 5080398 (Total Identities we are pulling in) 
+
+Item #3:  Active Identities: 3829694 (>1.4M) 
+
+ Item #4 – Item #3:  Inactive Identities: 1250704  (Remaining that we are not using but pulling in) 
+
+ 
+
+3. Only U.S. Army-authorized identities are granted access privileges to U.S. Army Information Technology (IT) resources in accordance with Quote Q-648805-1. 
+
+4. All Department of Defense (DoD) identities from AMID are populated into the SailPoint identity repository using EDIPI as the primary identifier. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Uncorrelated Identities: 168499 
+
+  License Identities (active+correlated): 3661195 
+
+  Licensed Identities w/o managers: 3241147 
+
+  Licensed Identities w/o email: 7007 
+
+  Total Licensed Managers: 0 
+
+  Total Inactive Managers: 0 
+
+  Total Active Users Reporting to Inactive Managers: 6408 
+
+  Identity Snapshots: 299 
+
+  Identity Archive: 2549792 
+
+ 
+
+Manager statistics: 
+
+ 
+
+ 
+
+Workgroup statistics: 
+
+  Workgroups: 764 
+
+ 
+
+Application statistics: 
+
+  Total Applications: 38 
+
+ 
+
+  Application number by connector type: 
+
+    Active Directory - Direct 8 
+
+    Azure Active Directory 1 
+
+    DelimitedFile 5 
+
+    IdentityIQ Loopback Connector 1 
+
+    JDBC 5 
+
+    LDAP 3 
+
+    Oracle Internet Directory - Direct 1 
+
+    ServiceNow 3 
+
+    Web Services 11 
+
+    Composite Applications: 0 
+
+ 
+
+ 
+
+Link statistics: 
+
+  Links: 6498852 
+
+  Top 5 link count Identity: damon.a.haastrup.ctr: 18 
+
+  Top 5 link count Identity: dwayne.n.baker.ctr: 15 
+
+  Top 5 link count Identity: dhiren.b.patel.civ: 15 
+
+  Top 5 link count Identity: lisa.m.murphy22.civ: 12 
+
+  Top 5 link count Identity: marcie.a.miller.mil: 12 
+
+ 
+
+ 
+
+Identity Entitlements 
+
+  Total IdentityEntitlements: 1229363 
+
+  Top 5 entitlement count Identity: annie.prasad.civ: 304 
+
+  Top 5 entitlement count Identity: sharan.chama.ctr: 291 
+
+  Top 5 entitlement count Identity: aren.b.douglass.ctr: 285 
+
+  Top 5 entitlement count Identity: bethzaely.feliciano-rivera.ctr: 279 
+
+  Top 5 entitlement count Identity: neal.d.smith14.ctr: 276 
+
+ 
+
+ 
+
+  Top 10 entitlement count: roles = 2a6ac2b373033010e3b47e4d4ef6a7f5 on ServiceNow - Test: 104770 
+
+  Top 10 entitlement count: groups = 5ee74940b70022108d4406dd1e11a918 on ServiceNow - Test: 90192 
+
+  Top 10 entitlement count: groups = cn=Field User,ou=BIP Groups,o=hrc,dc=aac,dc=usarec,dc=army,dc=mil on RECMOD-OLD: 54232 
+
+  Top 10 entitlement count: groups = 0724a1f6e16f1b00d853a09312713483 on ServiceNow - Test: 53190 
+
+  Top 10 entitlement count: groups = 0724a1f6e16f1b00d853a09312713483 on ServiceNow - Dev: 46704 
+
+  Top 10 entitlement count: groups = 0724a1f6e16f1b00d853a09312713483 on ServiceNow: 45154 
+
+  Top 10 entitlement count: groups = fbd09710-be57-48bf-b233-dde5b959ee10 on A365: 33756 
+
+  Top 10 entitlement count: groups = cf23ed7e-2100-486f-be07-f03b5e25326d on A365: 33754 
+
+  Top 10 entitlement count: groups = 637c1a1d-999d-47c4-aab2-bd75a723591f on A365: 33751 
+
+  Top 10 entitlement count: groups = 3294280b-c8ff-4a6e-b49b-3957394dbcde on A365: 33747 
+
+ 
+
+Identity Roles 
+
+  Total Identity Assigned Roles: 7835 
+
+ 
+
+  Top 5 assigned role count Identity: tad.a.michael.ctr: 53 
+
+  Top 5 assigned role count Identity: john.h.bauer35.ctr: 52 
+
+  Top 5 assigned role count Identity: esteban.cervantes.ctr: 51 
+
+  Top 5 assigned role count Identity: daniel.l.cardenas.civ: 44 
+
+  Top 5 assigned role count Identity: dustin.n.tucker.civ: 40 
+
+ 
+
+  Assigned Role Count Ranges (0-50): Ids with less than 50: 3186 
+
+  Assigned Role Count Ranges (51-100): Ids with more than 50: 3 
+
+ 
+
+  Top 10 assigned role count: cARMY Dev Desktop East: 2588 
+
+  Top 10 assigned role count: DSE Gitlab User: 195 
+
+  Top 10 assigned role count: Posit Workbench - Developer Prod: 165 
+
+  Top 10 assigned role count: CAAG AVD Basic User: 123 
+
+  Top 10 assigned role count: DEVOPSContributor-DevLearningArea: 112 
+
+  Top 10 assigned role count: DEVOPSContributor-DTA-cAAGReader: 112 
+
+  Top 10 assigned role count: cARMY Dev Desktop West: 103 
+
+  Top 10 assigned role count: cARMY Azure AD Global Reader: 85 
+
+  Top 10 assigned role count: CAAG STIG Manager Basic User: 70 
+
+  Top 10 assigned role count: SHDSVC-P ARCYBERREADONLY: 60 
+
+ 
+
+  Total Identity Detected Roles: 7717 
+
+ 
+
+  Top 5 detected role count Identity: tad.a.michael.ctr: 53 
+
+  Top 5 detected role count Identity: john.h.bauer35.ctr: 52 
+
+  Top 5 detected role count Identity: esteban.cervantes.ctr: 51 
+
+  Top 5 detected role count Identity: daniel.l.cardenas.civ: 44 
+
+  Top 5 detected role count Identity: dustin.n.tucker.civ: 40 
+
+ 
+
+  Detected Role Count Ranges (0-50): Ids with less than 50: 3119 
+
+  Detected Role Count Ranges (51-100): Ids with more than 50: 3 
+
+ 
+
+  Top 10 detected role count: cARMY Dev Desktop East IT Role: 2540 
+
+  Top 10 detected role count: DSE Gitlab User IT Role: 195 
+
+  Top 10 detected role count: Posit Workbench - Developer Prod IT Role: 165 
+
+  Top 10 detected role count: CAAG AVD Basic User IT Role: 122 
+
+  Top 10 detected role count: DEVOPSContributor-DevLearningArea IT Role: 111 
+
+  Top 10 detected role count: DEVOPSContributor-DTA-cAAGReader IT Role: 111 
+
+  Top 10 detected role count: cARMY Dev Desktop West IT User: 101 
+
+  Top 10 detected role count: cARMY Azure AD Global Reader IT Role: 74 
+
+  Top 10 detected role count: CAAG STIG Manager Basic User IT Role: 70 
+
+  Top 10 detected role count: DSOP - Dev - PROJADMIN IT Role: 48 
+
+ 
+
+ 
+
+Role statistics: 
+
+  Role number: 3174 
+
+  Role number by role type: 
+
+    business 1586 
+
+    it 1588 
+
+  Role types and if they are requestable: 
+
+    organizational false 
+
+    business true 
+
+    entitlement false 
+
+    it false 
+
+    rapidSetupBirthright false 
+
+  Assignable Roles: 1586 
+
+  Non-Assignable Roles: 1588 
+
+ 
+
+Workitem statistics: 
+
+  WorkItems: 11510 
+
+ 
+
+Top 5 workitem count Identity (include workgroups): 
+
+  Top 5 workitem count Identity: marissa.hector.civ: 109 
+
+  Top 5 workitem count Identity: paul.j.messuri.mil: 97 
+
+  Top 5 workitem count Identity: jennifer.l.goode.civ: 93 
+
+  Top 5 workitem count Identity: logan.j.butera.mil: 63 
+
+  Top 5 workitem count Identity: nathan.j.hicks2.civ: 56 
+
+ 
+
+Top 5 workitem count Identity (exclude workgroups): 
+
+  Top 5 workitem count Identity: marissa.hector.civ: 109 
+
+  Top 5 workitem count Identity: paul.j.messuri.mil: 97 
+
+  Top 5 workitem count Identity: jennifer.l.goode.civ: 93 
+
+  Top 5 workitem count Identity: logan.j.butera.mil: 63 
+
+  Top 5 workitem count Identity: nathan.j.hicks2.civ: 56 
+
+ 
+
+Certification statistics: 
+
+  CertificationGroups: 3 
+
+  CertificationItems: 4820 
+
+  CertificationEntities: 3642 
+
+  Excluded Certification Entities: 0 
+
+  Excluded Certification Items: 0 
+
+  Certification WorkItems: 1 
+
+ 
+
+Policy statistics: 
+
+  Policy number: 2 
+
+  Active policies: 2 
+
+  Inactive policies: 0 
+
+  SOD policies: 1 
+
+  Account policies: 0 
+
+  Activity policies: 0 
+
+  Advanced policies: 0 
+
+  EntitlementSOD policies: 1 
+
+  Policy Violations: 0 
+
+  Policy WorkItems: 0 
+
+ 
+
+LCM statistics: 
+
+Requests: 
+
+    Workflow Request 1111 
+
+    Email Request 11 
+
+  Total Workflow Requests: 0 
+
+  IdentityRequest: 1419989 
+
+  IdentityRequestItem: 1590897 
+
+  WorkflowCase: 11082 
+
+  LCM WorkItems: 11493 
+
+  Event WorkItems: 16 
+
+  LCM WorkItems over 30 days: 337 
+
+  ProcessLog: 206172 
+
+  Enabled Lifecycle Events: 19 
+
+ 
+
+Top 5 identity request size by number of request items: 
+
+  Top 5 identity requests: Michael Smith: 263 
+
+  Top 5 identity requests: Robert Smith: 205 
+
+  Top 5 identity requests: James Smith: 177 
+
+  Top 5 identity requests: Christopher Smith: 174 
+
+  Top 5 identity requests: Joshua Smith: 173 
+
+ 
+
+Archived Item Counts: 
+
+  Certification Archives: 0 
+
+  WorkItem Archives: 0 
+
+ 
+
+Provisioning statistics: 
+
+  ProvisioningTransaction: 3532922 
+
+  IntegrationConfig: 1 
+
+  ProvisioningRequest: 56 
+
+ 
+
+Entitlement Catalog statistics: 
+
+  Entitlement Catalog entries: 99414 
+
+ 
+
+Report statistics: 
+
+  GridReports: 31 
+
+  LiveReports: 281 
+
+  Reports: 1 
+
+ 
+
+Task Definition statistics: 
+
+  Task Definition number: 444 
+
+  AccountAggregation task definitions: 24 
+
+  AccountGroupAggregation task definitions: 11 
+
+  Certification task definitions: 1 
+
+  Event task definitions: 0 
+
+  Generic task definitions: 57 
+
+  Identity task definitions: 21 
+
+  LCM task definitions: 0 
+
+  Partition task definitions: 0 
+
+  Scoring task definitions: 2 
+
+  System task definitions: 15 
+
+  Workflow task definitions: 0 
+
+ 
+
+TaskSchedule statistics: 
+
+  Scheduled Items: 
+
+    Account Group Aggregation: Daily SailPoint Loopback Group Aggregation 
+
+     Cron: [0 30 0 * * ? ] 
+
+      Status: task_result_success 
+
+      Records Processed: 811 
+
+      Execution Time: 9 seconds 
+
+      Partitioning Enabled: false 
+
+      Task Definition Options:  
+
+            aggregationType            group 
+
+            checkDeletedThreshold            200 
+
+            enablePartitioning            false 
+
+            haltOnMaxError            false 
+
+            promoteClassifications            false 
+
+            TaskDefinition.runs            361 
+
+            groupSchema            null 
+
+            TaskDefinition.runLengthTotal            3622 
+
+            TaskDefinition.runLengthAverage            10 
+
+            descriptionLocale            en_US 
+
+            taskCompletionEmailRecipients            Task_Alerts_Prod_Group 
+
+            TaskSchedule.host            null 
+
+            deltaAggregation            false 
+
+            taskCompletionEmailTemplate            Task Status 
+
+            taskCompletionEmailNotify            Warning 
+
+            checkDeleted            true 
+
+            applications            IGA SailPoint 
+
+ 
+
+Task Results statistics: 
+
+  Task Results: 600048 
+
+  Pending Task Results: 11015 
+
+ 
+
+Scope Counts: 
+
+  Scopes: 0 
+
+ 
+
+Audit Counts: 
+
+  Audit Events: -1928245626 
+
+ 
+
+  Top 5 AuditEvent count Identity: RequestHandler: 1932872217 
+
+  Top 5 AuditEvent count Identity: Scheduler: 250880312 
+
+  Top 5 AuditEvent count Identity: unknown: 155545843 
+
+  Top 5 AuditEvent count Identity: SailPointContextRequestFilter: 4008889 
+
+  Top 5 AuditEvent count Identity: Refresh Identity Cube - Delta - Identity Attributes - Process Events: 368480 
+
+ 
+
+  Top 5 AuditEvent count Action: update: 1941411871 
+
+  Top 5 AuditEvent count Action: expansion: 132725474 
+
+  Top 5 AuditEvent count Action: attributeSync: 132725037 
+
+  Top 5 AuditEvent count Action: startWorkflow: 105752665 
+
+  Top 5 AuditEvent count Action: provision: 24314648 
+
+ 
+
+System Configuration statistics: 
+
+  Identity Snapshot Interval: 1 days 
+
+  Identity Snapshot Max Age: 30 
+
+  Identity Index Granule: month 
+
+  Group Index Granule: month 
+
+  Task Result Max Age: 90 
+
+  Request Max Age: 0 
+
+  Provisioning Request Expiration Days: 7 
+
+  Provisioning Transaction Expiration Days: 90 
+
+  SysLog Event MaxAge: 30 
+
+  Certification Archive Max Age: 0 
+
+  Certification Max Age: 0 
+
+  LCM Enabled: true 
+
+  Identity Request Max Age: 0 
+
+  IdentityRequest Max Verification Age: 31 
+
+  loginPassThrough: null 
+
+  SSOEnabled: SAML 
+
+  emailNotifierType: smtp 
+
+  defaultEmailFromAddress: usarmy.belvoir.mbx.cpe-c2in-iga-systems@army.mil 
+
+  smtp_encryptionType: NONE 
+
+  defaultEmailHost: smtp.c1.5g.prod.army.mil 
+
+  defaultEmailPort: 25 
+
+ 
+
+Syslog Counts: 
+
+  SysLog Enabled: true 
+
+  Syslog Events: 2234280 
+
+ 
+
+Extended attribute statistics: 
+
+    caccn Extended Attribute is not searchable Source: Attribute 
+
+    citizenship Extended Attribute is not searchable Source: Attribute 
+
+    dutyadmincode Index not found, probably missing Source: Attribute 
+
+    dutyCity Extended Attribute is not searchable Source: Attribute 
+
+    dutyCountry Extended Attribute is not searchable Source: Attribute 
+
+    dutyCountry Extended Attribute is not searchable Source: Attribute 
+
+    dutyDepartment Index not found, probably missing Source: Attribute 
+
+    dutydsn Extended Attribute is not searchable Source: Attribute 
+
+    dutyfacsimilenumber Extended Attribute is not searchable Source: Attribute 
+
+    dutyofficesymbol Index not found, probably missing Source: Attribute 
+
+    dutyorganizationcode Index not found, probably missing Source: Attribute 
+
+    dutypostalcode Extended Attribute is not searchable Source: Attribute 
+
+    dutystateaddress Extended Attribute is not searchable Source: Attribute 
+
+    dutystreetaddress Extended Attribute is not searchable Source: Attribute 
+
+    enccertvalidto Extended Attribute is not searchable Source: Attribute 
+
+    macom Extended Attribute is not searchable Source: Attribute 
+
+    middlename Extended Attribute is not searchable Source: Attribute 
+
+    otheremailaddress Extended Attribute is not searchable Source: Attribute 
+
+    personatitle Extended Attribute is not searchable Source: Attribute 
+
+    personaUserName Extended Attribute is not searchable Source: Attribute 
+
+    personCitizen Extended Attribute is not searchable Source: Attribute 
+
+    rank Extended Attribute is not searchable Source: Attribute 
+
+    status Extended Attribute is not searchable Source: Attribute 
+
+    uic Index not found, probably missing Source: Attribute 
+
+    dutytelephonenumber Extended Attribute is not searchable Source: Attribute 
+
+    trainingcyberawareness Extended Attribute is not searchable Source: Attribute 
+
+    fascn Index not found, probably missing Source: Attribute 
+
+    accounttype Index not found, probably missing Source: Attribute 
+
+    ptc Index not found, probably missing Source: Attribute 
+
+    branchofservice Extended Attribute is not searchable Source: Attribute 
+
+    paygrade Index not found, probably missing Source: Attribute 
+
+    rank Index not found, probably missing Source: Attribute 
+
+    userPrincipalName Index not found, probably missing Source: Attribute 
+
+    edipi Index not found, probably missing Source: Attribute 
+
+    dutyaddresslocation Extended Attribute is not searchable Source: Attribute 
+
+    managed Index not found, probably missing Source: Global Rule 
+
+    da7789ApprovedSystems Extended Attribute is multivalued and searchable No source mapping 
+
+    issoissm Identity Column and Index found No source mapping 
+
+    associatedUIC Index not found, probably missing No source mapping 
+
+    contractExpirationDate Extended Attribute is not searchable No source mapping 
+
+    contractNumber Extended Attribute is not searchable No source mapping 
+
+    companyName Extended Attribute is not searchable No source mapping 
+
+    investigationType Extended Attribute is not searchable No source mapping 
+
+    clearanceLevel Extended Attribute is not searchable No source mapping 
+
+    da7789ApprovalDate Index not found, probably missing Source: Global Rule 
+
+    da7789Approved Index not found, probably missing Source: Global Rule 
+
+    dd2875NIPRApprovalDate Index not found, probably missing Source: Global Rule 
+
+    dd2875NIPRApproved Index not found, probably missing Source: Global Rule 
+
+    dd2875SIPRApprovalDate Index not found, probably missing Source: Global Rule 
+
+    dd2875SIPRApproved Index not found, probably missing Source: Global Rule 
+
+    dd2875DRENApprovalDate Extended Attribute is not searchable Source: Attribute 
+
+    dd2875DRENApproved Extended Attribute is not searchable Source: Attribute 
+
+    dd2875SDRENApprovalDate Extended Attribute is not searchable Source: Attribute 
+
+    dd2875SDRENApproved Extended Attribute is not searchable Source: Attribute 
+
+    dd2875JWICSApproved Extended Attribute is not searchable Source: Attribute 
+
+    dd2875JWICSApprovalDate Extended Attribute is not searchable Source: Attribute 
+
+    trainingituseragreement Index not found, probably missing Source: Attribute 
+
+ 
+
+  Extended Identity Attributes: 57 
+
+ 
+
+    accountType Index not found, probably missing No source mapping 
+
+    accessType Extended Attribute is not searchable No source mapping 
+
+    accessLevel Extended Attribute is not searchable No source mapping 
+
+    organizationalGroup Index not found, probably missing No source mapping 
+
+    applicationName Index not found, probably missing No source mapping 
+
+    systemName Index not found, probably missing No source mapping 
+
+  Extended Bundle Attributes: 6 
+
+ 
+
+    sAMAccountName Index not found, probably missing Source: Attribute 
+
+    userPrincipalName Index not found, probably missing Source: Attribute 
+
+    linkOwner Index not found, probably missing Source: Global Rule 
+
+  Extended Link Attributes: 3 
+
+ 
+
+  Extended Application Attributes: 0 
+
+ 
+
+    Business Application Index not found, probably missing No source mapping 
+
+    systemName Index not found, probably missing No source mapping 
+
+    accessLevel Index not found, probably missing No source mapping 
+
+  Extended ManagedAttribute Attributes: 3 
+
+ 
+
+ 
+
+Server Configurations: 
+
+  caappdesuia8003 
+
+  CPU Usage: 3.61 
+
+  Request Service Started: true 
+
+  Request Threads: 0 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0022 
+
+  CPU Usage: 2.50 
+
+  Request Service Started: true 
+
+  Request Threads: 0 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0011 
+
+  CPU Usage: 0.344 
+
+  Request Service Started: true 
+
+  Request Threads: 1 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0013 
+
+  CPU Usage: 0.361 
+
+  Request Service Started: true 
+
+  Request Threads: 1 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0021 
+
+  CPU Usage: 2.16 
+
+  Request Service Started: true 
+
+  Request Threads: 0 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0015 
+
+  CPU Usage: 0.531 
+
+  Request Service Started: true 
+
+  Request Threads: 0 
+
+  Task Threads: 1 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0012 
+
+  CPU Usage: 0.286 
+
+  Request Service Started: true 
+
+  Request Threads: 1 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0009 
+
+  CPU Usage: 6.77 
+
+  Request Service Started: null 
+
+  Request Threads: 0 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0016 
+
+  CPU Usage: 0.423 
+
+  Request Service Started: true 
+
+  Request Threads: 6 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+  caappdesuia0014 
+
+  CPU Usage: 2.09 
+
+  Request Service Started: true 
+
+  Request Threads: 0 
+
+  Task Threads: 0 
+
+  Max Request Threads: 0 
+
+ 
+
+ 
+
+Request Definitions: 
+
+  Integration Request Max Threads: 0 
+
+  Service Request Max Threads: 0 
+
+  Identity Trigger Request Max Threads: 0 
+
+  Aggregate Request Max Threads: 0 
+
+  Group Aggregate Partition Max Threads: 1 
+
+  Identity Request Prune Scan Request Max Threads: 1 
+
+  WorkItem Maintenance Request Max Threads: 1 
+
+  Certification Maintenance Request Max Threads: 1 
+
+  Role Propagation Partition Max Threads: 1 
+
+  Partitioned Alert Processing Max Threads: 1 
+
+  Role-Entitlement Associations Partition Max Threads: 0 
+
+  Task Execute Max Threads: 5 
+
+  Task Command Max Threads: -1 
+
+  Terminate Task Max Threads: 0 
+
+  Expire Sequential Task Max Threads: 0 
+
+  Rule Request Max Threads: -1 
+
+  Certification Builder Max Threads: 4 
+
+  Application Status Request Max Threads: 0 
+
+  System Maintenance Pruner Partition Max Threads: 4 
+
+  Native Identity Change Propagation Request Max Threads: 5 
+
+  Email Request Max Threads: 0 
+
+  Identity Refresh Partition Max Threads: 16 
+
+  Aggregate Partition Max Threads: 16 
+
+  SupportPlugin Request Max Threads: 0 
+
+  Manager Certification Generation Partition Max Threads: 16 
+
+  Workflow Request Max Threads: 4 
+
+  Data Extract Partition Creator Max Threads: 5 
+
+  Data Extract Partition Max Threads: 5 
+
+  Intercepted Delete Processor Max Threads: 5 
+
+ 
+
+About command: 
+
+  Version: 8.4p2 a559eb467b2-20241211-210440 
+
+  System Version: 8.4-107 
+
+  Schema Version: 8.4-88 
+
+  Source Revision: a559eb467b2-20241211-210440 
+
+  Source Repo Location: RC_8.4p2 
+
+  Builder: jenkins 
+
+  Build Date: 12/12/2024 12:32 AM -0600 
+
+  Application Home: /opt/tomcat/apache-tomcat/webapps/identityiq/ 
+
+  Data Source URL: jdbc:postgresql://sailpointdb-prod-postgresqlv4-cluster-cluster.cluster-c9yo5vumhtnh.us-gov-west-1.rds.amazonaws.com:5432/identityiq 
+
+ 
+
+  Host: caappdesuia0015 
+
+  Host OS: Linux 
+
+  OS Total Memory: 30.610 GB 
+
+  OS Current Free Memory: 9.124 GB 
+
+  JVM Free Memory: 729.411 MB 
+
+  JVM Total Memory: 2.104 GB 
+
+  JVM Max Memory: 22.570 GB 
+
+ 
+
+  Available processors: 8 
+
+  Local Task Scheduler: Started 
+
+  Local Request Processor: Started 
+
+  Local Task Threads: 1 
+
+  Local Request Threads: 0 
+
+  Known Task Schedulers: caappdesuia0011, caappdesuia0012, caappdesuia0013, caappdesuia0015, caappdesuia0016 
+
+  Known Request Processors: caappdesuia0011, caappdesuia0012, caappdesuia0013, caappdesuia0015, caappdesuia0016 
+
+  Request ServiceDefintion Max Threads: 0 
+
+ 
+
+Hibernate info:  Hibernate dialect: sailpoint.persistence.PostgreSQL10Dialect 
+
+ 
+
+Database Info: 
+
+  Database type: PostgreSQL 
+
+  Database version: 15.17 
+
+  Driver name: Amazon Web Services (AWS) Advanced JDBC Wrapper 
+
+  Driver version: Amazon Web Services (AWS) Advanced JDBC Wrapper 2.3.8 ( Revision: 140d45ff1f0937cafa94f5daebb8fbd995b114a1 ) 
+
+  Datasource Initial Size:10 
+
+  Datasource maxTotal:350 
+
+  Datasource maxIdle:75 
+
+  Datasource maxOpenPreparedStatements:-1 
+
+  Datasource maxWait:20000 
+
+  Datasource minEvictableIdleTimeMillis:900000 
+
+  Datasource minIdle:8 
+
+  Datasource numActive:2 
+
+  Datasource numIdle:9 
+
+  Datasource numTestsPerEvictionRun:3 
+
+  Datasource timeBetweenEvictionRunsMillis:600000 
+
+ 
+
+Quartz Configuration Information: 
+
+Quartz summary: 
+
+Quartz Scheduler (v2.3.2) 'QuartzScheduler' with instanceId 'NON_CLUSTERED' 
+
+Scheduler class: 'org.quartz.impl.StdScheduler' - running locally. 
+
+Running since: Wed May 27 17:25:04 PDT 2026 
+
+Not currently in standby mode. 
+
+Number of jobs executed: 2789 
+
+Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads. 
+
+Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is not clustered. 
+
+ 
+
+ 
+
+Application Server Info: 
+
+ Application Server name: Apache Tomcat 
+
+ 
+
+JVM arguments: 
+
+            --add-opens=java.base/java.lang=ALL-UNNAMED 
+
+            --add-opens=java.base/java.lang.invoke=ALL-UNNAMED 
+
+            --add-opens=java.base/java.lang.reflect=ALL-UNNAMED 
+
+            --add-opens=java.base/java.io=ALL-UNNAMED 
+
+            --add-opens=java.base/java.util=ALL-UNNAMED 
+
+            --add-opens=java.base/java.util.concurrent=ALL-UNNAMED 
+
+            --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED 
+
+            -Djava.util.logging.config.file=/opt/tomcat/apache-tomcat/conf/logging.properties 
+
+            -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager 
+
+            -Djava.security.egd=file:///dev/urandom 
+
+            -Djdk.tls.ephemeralDHKeySize=2048 
+
+            -Djava.protocol.handler.pkgs=org.apache.catalina.webresources 
+
+            -Dsun.io.useCanonCaches=false 
+
+            -Dorg.apache.catalina.security.SecurityListener.UMASK=0027 
+
+            -Xms2048M 
+
+            -Xmx26000M 
+
+            -XX:+UseParallelGC 
+
+            -Dorg.apache.catalina.connector.RECYCLE_FACADES=true 
+
+            -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=true 
+
+            -Dorg.apache.catalina.connector.ALLOW_BACKSLASH=false 
+
+            -Dorg.apache.catalina.connector.response.ENFORCE_ENCODING_IN_GET_WRITER=true 
+
+            -Dcom.sun.jndi.ldap.connect.pool.timeout=3000 
+
+            -Dignore.endorsed.dirs= 
+
+            -Djava.security.manager 
+
+            -Djava.security.policy==/opt/tomcat/apache-tomcat/conf/catalina.policy 
+
+            -Dcatalina.base=/opt/tomcat/apache-tomcat 
+
+            -Dcatalina.home=/opt/tomcat/apache-tomcat 
+
+            -Djava.io.tmpdir=/opt/tomcat/apache-tomcat/temp 
+
+ 
+
+System Properties: 
+
+            java.specification.version=17 
+
+            sun.jnu.encoding=UTF-8 
+
+            java.class.path=/opt/tomcat/apache-tomcat/bin/bootstrap.jar:/opt/tomcat/apache-tomcat/bin/tomcat-juli.jar 
+
+            java.vm.vendor=Eclipse Adoptium 
+
+            sun.arch.data.model=64 
+
+            sun.font.fontmanager=sun.awt.X11FontManager 
+
+            org.apache.catalina.connector.ALLOW_BACKSLASH=false 
+
+            java.vendor.url=https://adoptium.net/ 
+
+            catalina.useNaming=true 
+
+            user.timezone=America/Los_Angeles 
+
+            org.apache.el.GET_CLASSLOADER_USE_PRIVILEGED=false 
+
+            java.vm.specification.version=17 
+
+            os.name=Linux 
+
+            sun.io.useCanonCaches=false 
+
+            sun.java.launcher=SUN_STANDARD 
+
+            user.country=US 
+
+            sun.boot.library.path=/opt/tomcat/java/jdk-17.0.18+8/lib 
+
+            sun.java.command=org.apache.catalina.startup.Bootstrap start 
+
+            jdk.debug=release 
+
+            sun.cpu.endian=little 
+
+            user.home=/home/tomcat 
+
+            user.language=en 
+
+            java.specification.vendor=Oracle Corporation 
+
+            java.naming.factory.url.pkgs=org.apache.naming 
+
+            java.version.date=2026-01-20 
+
+            java.home=/opt/tomcat/java/jdk-17.0.18+8 
+
+            ignore.endorsed.dirs= 
+
+            file.separator=/ 
+
+            java.vm.compressedOopsMode=Zero based 
+
+            line.separator= 
+
+ 
+
+            java.vm.specification.vendor=Oracle Corporation 
+
+            java.specification.name=Java Platform API Specification 
+
+            package.access=sun.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.tomcat. 
+
+            package.definition=sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.,org.apache.tomcat. 
+
+            jdk.tls.ephemeralDHKeySize=2048 
+
+            server.loader= 
+
+            java.util.logging.config.file=/opt/tomcat/apache-tomcat/conf/logging.properties 
+
+            java.protocol.handler.pkgs=org.apache.catalina.webresources 
+
+            sun.management.compiler=HotSpot 64-Bit Tiered Compilers 
+
+            mail.mime.encodefilename=true 
+
+            java.security.manager= 
+
+            java.runtime.version=17.0.18+8 
+
+            java.naming.factory.initial=org.apache.naming.java.javaURLContextFactory 
+
+            user.name=tomcat 
+
+            path.separator=: 
+
+            java.security.egd=file:///dev/urandom 
+
+            common.loader="${catalina.base}/lib","${catalina.base}/lib/*.jar","${catalina.home}/lib","${catalina.home}/lib/*.jar" 
+
+            os.version=4.18.0-553.124.1.el8_10.x86_64 
+
+            java.security.policy==/opt/tomcat/apache-tomcat/conf/catalina.policy 
+
+            java.runtime.name=OpenJDK Runtime Environment 
+
+            file.encoding=UTF-8 
+
+            java.vm.name=OpenJDK 64-Bit Server VM 
+
+            java.vendor.version=Temurin-17.0.18+8 
+
+            org.apache.catalina.security.SecurityListener.UMASK=0027 
+
+            org.apache.el.parser.SKIP_IDENTIFIER_CHECK=true 
+
+            org.apache.catalina.STRICT_SERVLET_COMPLIANCE=true 
+
+            org.apache.catalina.connector.response.ENFORCE_ENCODING_IN_GET_WRITER=true 
+
+            java.vendor.url.bug=https://github.com/adoptium/adoptium-support/issues 
+
+            java.io.tmpdir=/opt/tomcat/apache-tomcat/temp 
+
+            tomcat.util.scan.StandardJarScanFilter.jarsToScan=log4j-taglib*.jar,log4j-web*.jar,log4javascript*.jar,slf4j-taglib*.jar 
+
+            com.sun.jndi.ldap.connect.pool.timeout=3000 
+
+            catalina.home=/opt/tomcat/apache-tomcat 
+
+            java.version=17.0.18 
+
+            tomcat.util.scan.StandardJarScanFilter.jarsToSkip=annotations-api.jar,ant-junit*.jar,ant-launcher*.jar,ant*.jar,asm-*.jar,aspectj*.jar,bcel*.jar,biz.aQute.bnd*.jar,bootstrap.jar,catalina-ant.jar,catalina-ha.jar,catalina-ssi.jar,catalina-storeconfig.jar,catalina-tribes.jar,catalina.jar,cglib-*.jar,cobertura-*.jar,commons-beanutils*.jar,commons-codec*.jar,commons-collections*.jar,commons-compress*.jar,commons-daemon.jar,commons-dbcp*.jar,commons-digester*.jar,commons-fileupload*.jar,commons-httpclient*.jar,commons-io*.jar,commons-lang*.jar,commons-logging*.jar,commons-math*.jar,commons-pool*.jar,derby-*.jar,dom4j-*.jar,easymock-*.jar,ecj-*.jar,el-api.jar,geronimo-spec-jaxrpc*.jar,h2*.jar,ha-api-*.jar,hamcrest-*.jar,hibernate*.jar,httpclient*.jar,icu4j-*.jar,jasper-el.jar,jasper.jar,jaspic-api.jar,jaxb-*.jar,jaxen-*.jar,jaxws-rt-*.jar,jdom-*.jar,jetty-*.jar,jmx-tools.jar,jmx.jar,jsp-api.jar,jstl.jar,jta*.jar,junit-*.jar,junit.jar,log4j*.jar,mail*.jar,objenesis-*.jar,oraclepki.jar,org.hamcrest.core_*.jar,org.junit_*.jar,oro-*.jar,servlet-api-*.jar,servlet-api.jar,slf4j*.jar,taglibs-standard-spec-*.jar,tagsoup-*.jar,tomcat-api.jar,tomcat-coyote.jar,tomcat-dbcp.jar,tomcat-i18n-*.jar,tomcat-jdbc.jar,tomcat-jni.jar,tomcat-juli-adapters.jar,tomcat-juli.jar,tomcat-util-scan.jar,tomcat-util.jar,tomcat-websocket.jar,tools.jar,unboundid-ldapsdk-*.jar,websocket-api.jar,wsdl4j*.jar,xercesImpl.jar,xml-apis.jar,xmlParserAPIs-*.jar,xmlParserAPIs.jar,xom-*.jar 
+
+            user.dir=/ 
+
+            org.apache.catalina.connector.RECYCLE_FACADES=true 
+
+            os.arch=amd64 
+
+            java.vm.specification.name=Java Virtual Machine Specification 
+
+            mail.mime.encodeparameters=true 
+
+            catalina.base=/opt/tomcat/apache-tomcat 
+
+            shared.loader= 
+
+            native.encoding=UTF-8 
+
+            java.util.logging.manager=org.apache.juli.ClassLoaderLogManager 
+
+            java.library.path=/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib:/opt/tomcat/apache-tomcat/webapps/identityiq//WEB-INF/lib 
+
+            java.vm.info=mixed mode, sharing 
+
+            java.vendor=Eclipse Adoptium 
+
+            java.vm.version=17.0.18+8 
+
+            java.specification.maintenance.version=1 
+
+            sun.io.unicode.encoding=UnicodeLittle 
+
+            tomcat.util.buf.StringCache.byte.enabled=true 
+
+            java.class.version=61.0 
+
+ 
+
+Detailed Application Configuration Information: 
+
+  EOCI-DEV (Active Directory - Direct) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 17 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 54 
+
+  Active Directory - ECMA PIV (Active Directory - Direct) 
+
+    Total Accounts: 8643 
+
+    Total Entitlements: 1484 
+
+    Total Identity Entitlements: 35430 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 89 
+
+  ECMA (Active Directory - Direct) 
+
+    Total Accounts: 1 
+
+    Total Entitlements: 3 
+
+    Total Identity Entitlements: 3 
+
+    Provisioning Pathway: DIRECT 
+
+  EOCI-LZ (Active Directory - Direct) 
+
+    Total Accounts: 38 
+
+    Total Entitlements: 32 
+
+    Total Identity Entitlements: 85 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 54 
+
+  Active Directory - ECMA SA (Active Directory - Direct) 
+
+    Total Accounts: 857 
+
+    Total Entitlements: 277 
+
+    Total Identity Entitlements: 3821 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 72 
+
+  EOCI-DEV-ADMIN (Active Directory - Direct) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 25 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 54 
+
+  EOCI-LZ-ADMIN (Active Directory - Direct) 
+
+    Total Accounts: 3 
+
+    Total Entitlements: 5 
+
+    Total Identity Entitlements: 8 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 54 
+
+  Active Directory - ECMA DA (Active Directory - Direct) 
+
+    Total Accounts: 7 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 7 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 65 
+
+  A365 (Azure Active Directory) 
+
+    Total Accounts: 33758 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 200027 
+
+    Provisioning Pathway: DIRECT 
+
+  IGA Developers (DelimitedFile) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: MANUAL ACTION 
+
+  IPPS-A (DelimitedFile) 
+
+    Total Accounts: 175 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 15 
+
+  AEP MeSpace (DelimitedFile) 
+
+    Total Accounts: 3897 
+
+    Total Entitlements: 210 
+
+    Total Identity Entitlements: 10965 
+
+    Provisioning Pathway: INTEGRATION CONFIG (DelimitedIntegration) 
+
+    correlationRule Line Count 49 
+
+  2875 Network Request (DelimitedFile) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: MANUAL ACTION 
+
+  7789 Network Request (DelimitedFile) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: MANUAL ACTION 
+
+  IGA SailPoint (IdentityIQ Loopback Connector) 
+
+    Total Accounts: 44716 
+
+    Total Entitlements: 807 
+
+    Total Identity Entitlements: 50753 
+
+    Provisioning Pathway: DIRECT 
+
+  LMP UAM Responsibilities - JDBC (JDBC) 
+
+    Total Accounts: 125 
+
+    Total Entitlements: 2862 
+
+    Total Identity Entitlements: 661 
+
+    Provisioning Pathway: MANUAL ACTION 
+
+    Get Object SQL: null 
+
+    Get Accounts SQL: SELECT * FROM portal_qas.V_SAILPT_UAM_ORG_ADMIN WHERE RESPONSIBILITY <> 'Supervisor' ORDER BY USERID 
+
+    buildMapRule Line Count 18 
+
+    correlationRule Line Count 73 
+
+  SIEM Application (JDBC) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: MANUAL ACTION 
+
+    Get Object SQL: null 
+
+    Get Accounts SQL: select 1; 
+
+  SAAS Mod (JDBC) 
+
+    Total Accounts: 537 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    Get Object SQL: null 
+
+    Get Accounts SQL: SELECT * FROM DAT_USER U JOIN DAT_USER_DODAAC D ON U.USER_ID = D.USER_ID WHERE U.ACTIVE_USER = 1; 
+
+ 
+
+    correlationRule Line Count 127 
+
+  AESIP (JDBC) 
+
+    Total Accounts: 165643 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    Get Object SQL: select * from AESIP_IDM.AESIP_USERS_V where PIV = '$(identity)' 
+
+    Get Accounts SQL: select * from AESIP_IDM.AESIP_USERS_V 
+
+ 
+
+    correlationRule Line Count 29 
+
+  MHP (JDBC) 
+
+    Total Accounts: 9420 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    Get Object SQL: null 
+
+    Get Accounts SQL: select * from master.mhp_iga_users 
+
+    buildMapRule Line Count 12 
+
+    correlationRule Line Count 125 
+
+  RECMOD-OLD (LDAP) 
+
+    Total Accounts: 78757 
+
+    Total Entitlements: 45 
+
+    Total Identity Entitlements: 129660 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 74 
+
+  AMID2 (LDAP) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+  AMID (LDAP) 
+
+    Total Accounts: 4911899 
+
+    Total Entitlements: 225 
+
+    Total Identity Entitlements: 34089 
+
+    Authoritative: TRUE 
+
+    Provisioning Pathway: DIRECT 
+
+  RECMOD (Oracle Internet Directory - Direct) 
+
+    Total Accounts: 506 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 74 
+
+  ServiceNow - Dev (ServiceNow) 
+
+    Total Accounts: 309298 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 152525 
+
+    Provisioning Pathway: DIRECT 
+
+  ServiceNow - Test (ServiceNow) 
+
+    Total Accounts: 310824 
+
+    Total Entitlements: 2561 
+
+    Total Identity Entitlements: 365000 
+
+    Provisioning Pathway: DIRECT 
+
+  ServiceNow (ServiceNow) 
+
+    Total Accounts: 336124 
+
+    Total Entitlements: 2186 
+
+    Total Identity Entitlements: 159209 
+
+    Provisioning Pathway: DIRECT 
+
+  LMP (Web Services) 
+
+    Total Accounts: 42165 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 125 
+
+  GFEBS (Web Services) 
+
+    Total Accounts: 159563 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 98 
+
+  LMP-SCM (Web Services) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 125 
+
+  LMP-EWM (Web Services) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 125 
+
+  LMP-BW (Web Services) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 125 
+
+  Pride (Web Services) 
+
+    Total Accounts: 1535 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 52 
+
+  LMP-ECC (Web Services) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 125 
+
+  ArmyIgnited (Web Services) 
+
+    Total Accounts: 0 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+  GCSS-Army (Web Services) 
+
+    Total Accounts: 71668 
+
+    Total Entitlements: 88676 
+
+    Total Identity Entitlements: 71705 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 82 
+
+  TAMIS (Web Services) 
+
+    Total Accounts: 8700 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 0 
+
+    Provisioning Pathway: DIRECT 
+
+    correlationRule Line Count 112 
+
+  FMS-ACES (Web Services) 
+
+    Total Accounts: 7 
+
+    Total Entitlements: 0 
+
+    Total Identity Entitlements: 6 
+
+    Provisioning Pathway: DIRECT 
+
+ 
+
+Detailed Task Results Information: 
+
+  Last Task Results for 'IPPS-A Account Aggregation Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 175 
+
+     Execution Time: 277 seconds     4.7 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            IPPS-A 
+
+  Last Task Results for 'Active Directory - Delta - ECMA Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 11 
+
+     Execution Time: 231 seconds     3.9 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            deltaAggregation            true 
+
+            noOptimizeReaggregation            true 
+
+            applications            Active Directory - ECMA DA, Active Directory - ECMA PIV, Active Directory - ECMA SA 
+
+  Last Task Results for 'MHP Account Aggregation Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 9744 
+
+     Execution Time: 658 seconds     11.0 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            correlateOnly            true 
+
+            checkDeleted            true 
+
+            applications            MHP 
+
+  Last Task Results for 'GFEBS Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 565 seconds     9.5 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            GFEBS 
+
+  Last Task Results for 'ServiceNow Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 4368 seconds     72.9 minutes            1.3 hours 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            ServiceNow, ServiceNow - Test, ServiceNow - Dev 
+
+  Last Task Results for 'AESIP Account Aggregation Weekly Task: Warning 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 571 seconds     9.6 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            AESIP 
+
+  Last Task Results for 'FMS-ACES Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 6 
+
+     Execution Time: 13 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            FMS-ACES 
+
+  Last Task Results for 'Active Directory - ECMA Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 304 seconds     5.1 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            Active Directory - ECMA PIV, Active Directory - ECMA DA, Active Directory - ECMA SA 
+
+  Last Task Results for 'SailPoint Loopback Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 254 seconds     4.3 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            IGA SailPoint 
+
+  Last Task Results for 'SAAS Mod Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 609 
+
+     Execution Time: 82 seconds     1.4 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            SAAS Mod 
+
+  Last Task Results for 'AEP MeSpace Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 3897 
+
+     Execution Time: 470 seconds     7.9 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            AEP MeSpace 
+
+  Last Task Results for 'Active Directory - ECMA PIV: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 8134 
+
+     Execution Time: 928 seconds     15.5 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            noOptimizeReaggregation            true 
+
+            applications            Active Directory - ECMA PIV 
+
+  Last Task Results for 'LMP Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 1089 seconds     18.2 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            LMP 
+
+  Last Task Results for 'AESIP Account Aggregation Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 254 seconds     4.3 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            applications            AESIP 
+
+  Last Task Results for 'AMID Account Aggregation Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 1008 seconds     16.9 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            checkDeleted            true 
+
+            applications            AMID 
+
+  Last Task Results for 'TAMIS Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 8700 
+
+     Execution Time: 699 seconds     11.7 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            TAMIS 
+
+  Last Task Results for 'EOCI-LZ Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 45 
+
+     Execution Time: 19 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            correlateEntitlements            true 
+
+            noOptimizeReaggregation            true 
+
+            checkDeleted            true 
+
+            applications            EOCI-DEV, EOCI-DEV-ADMIN, EOCI-LZ, EOCI-LZ-ADMIN 
+
+  Last Task Results for 'AEP MeSpace Functional Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 198 
+
+     Execution Time: 7 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            AEP MeSpace 
+
+  Last Task Results for 'GCSS-A Position Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 15 seconds 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            checkDeleted            true 
+
+            applications            GCSS-Army 
+
+  Last Task Results for 'ServiceNow Group Aggregation - Prod: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 2186 
+
+     Execution Time: 35 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            ServiceNow 
+
+  Last Task Results for 'GCSS-Army UIC Group Aggregation Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 1507 seconds     25.2 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            haltOnMaxError            true 
+
+            applications            GCSS-Army 
+
+  Last Task Results for 'Active Directory - ECMA Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 1761 
+
+     Execution Time: 130 seconds     2.2 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            Active Directory - ECMA PIV, Active Directory - ECMA SA 
+
+  Last Task Results for 'ServiceNow Group Aggregation - Test: Error 
+
+     Status: task_result_errException during aggregation of ad94f4971bdde0101b148592f54bcb76. Reason: The application script threw an exception: java.lang.NullPointerException: Null Pointer in Method Invocation BSF info: ServiceNow Group Aggregation Refresh Rule at line: 0 column: columnNo 
+
+     Records Processed: 2564 
+
+     Execution Time: 40 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            ServiceNow - Test 
+
+  Last Task Results for 'AMID Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 225 
+
+     Execution Time: 38 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            AMID 
+
+  Last Task Results for 'LMP UAM Responsibilities Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 2536 
+
+     Execution Time: 34 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            LMP UAM Responsibilities - JDBC 
+
+  Last Task Results for 'AEP MeSpace Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 198 
+
+     Execution Time: 7 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            AEP MeSpace 
+
+  Last Task Results for 'EOCI-LZ Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 79 
+
+     Execution Time: 14 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            checkDeleted            true 
+
+            applications            EOCI-DEV, EOCI-DEV-ADMIN, EOCI-LZ, EOCI-LZ-ADMIN 
+
+  Last Task Results for 'Retry GCSS Army Provisioning - Glenn: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 47 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Check Application Trigger Snapshots: Error 
+
+     Status: task_result_errorg.hibernate.exception.LockAcquisitionException: could not execute statement 
+
+     Records Processed: N/A 
+
+     Execution Time: 547 seconds     9.2 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Support Task for extra WorkItems on Workflow: Warning 
+
+     Status: task_result_warn 
+
+     Records Processed: N/A 
+
+     Execution Time: 22 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Retry Failed Transactions - Glenn: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 433 seconds     7.3 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Generic Run Rule: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 0 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Retry AEP MeSpace: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 3 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ECMA Roles Create: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 3 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'RECMOD - Disable Inactive Accounts After 30 Days: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 3 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Clean Cancelled Request Rule Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 5 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'GCCS-Army UIC and Position Sequential Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 1526 seconds     25.5 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'AEPMespace SAAR Retry: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 71 seconds     1.2 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Single Account Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 36 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ECMA Clean Up Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 2 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'LMP Update Admin Workgroups Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 64 seconds     1.1 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'test Query Workitems: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 4 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'LMP Sequential Account - Group - Update Workgroups: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 129 seconds     2.2 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            exitOnError            true 
+
+  Last Task Results for 'AEP MeSpace Sequential Account and Group Aggregation: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 486 seconds     8.2 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ServiceNow Clean Unlock Workgroups Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 0 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ServiceNow Sequential Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 4406 seconds     73.5 minutes            1.3 hours 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'AESIP Bulk Leaver for Uncorrelated Accounts: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 101 seconds     1.7 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'AEP MeSpace Uncorrelated Report SFTP Task - CUI: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 6 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'GCSS-Army Assign AA Population to SAAR Admin Workgroup: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 254 seconds     4.3 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'GCSS-Army Sequential Account Aggregation Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 765 seconds     12.8 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            exitOnError            true 
+
+  Last Task Results for 'LMP Leaver Report: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 0 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'Clean Long standing TaskResults Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 3 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ServiceNow Sync Unlock Workgroups: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 0 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ServiceNow Sync Mover Leaver Workgroups: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 0 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'ServiceNow Clean Movers Leavers Workgroups Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 0 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for 'AMID Account Aggregation - Refresh Identity Sequential Task: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 1125 seconds     18.8 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            exitOnError            true 
+
+  Last Task Results for 'Refresh Single Role: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 1 
+
+     Execution Time: 1 seconds 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            refreshRoleMetadata            true 
+
+            correlateEntitlements            true 
+
+            synchronizeAttributes            true 
+
+  Last Task Results for 'Prune Identity Cubes: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 168489 
+
+     Execution Time: 4122 seconds     68.8 minutes            1.2 hours 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+  Last Task Results for '7789 User Attribute Sync: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 24597 
+
+     Execution Time: 2421 seconds     40.4 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            synchronizeAttributes            true 
+
+  Last Task Results for 'Refresh Identity - Role based - Provision Assignments: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 113 seconds     1.9 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            correlateEntitlements            true 
+
+            provision            true 
+
+  Last Task Results for '2875 User Attribute Sync: Success 
+
+     Status: task_result_success 
+
+     Records Processed: 8172 
+
+     Execution Time: 1217 seconds     20.3 minutes 
+
+      Partitioning Enabled: false 
+
+     Task Definition Options: 
+
+            synchronizeAttributes            true 
+
+  Last Task Results for 'Refresh Users for ServiceNow: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 91 seconds     1.6 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            promoteAttributes            true 
+
+            processTriggers            true 
+
+            filterNeedsRefresh            true 
+
+  Last Task Results for 'Refresh Identity Cube - Delta - Identity Attributes - Process Events: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 115 seconds     2.0 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            promoteAttributes            true 
+
+            processTriggers            true 
+
+            filterNeedsRefresh            true 
+
+  Last Task Results for 'Refresh Identity Cube - By Filter: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 4704 seconds     78.5 minutes            1.4 hours 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            promoteAttributes            true 
+
+            processTriggers            true 
+
+            refreshIdentityEntitlements            true 
+
+  Last Task Results for 'Refresh Single User: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 7 seconds 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            refreshRoleMetadata            true 
+
+            correlateEntitlements            true 
+
+            provision            true 
+
+            refreshIdentityEntitlements            true 
+
+  Last Task Results for 'Propagate Role Changes - Prod: Error 
+
+     Status: task_result_terminatedRole propagation task failed for partition request [Role Change Event 2 - Process Identities 2 to 2] 
+
+     Records Processed: N/A 
+
+     Execution Time: 60 seconds     1.1 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+  Last Task Results for 'Refresh Identity Cube - Delta - Identity Attributes: Success 
+
+     Status: task_result_success 
+
+     Records Processed: N/A 
+
+     Execution Time: 1429 seconds     23.9 minutes 
+
+      Partitioning Enabled: true 
+
+     Task Definition Options: 
+
+            enablePartitioning            true 
+
+            promoteAttributes            true 
+
+            filterNeedsRefresh            true 
+
+ 
+
+Missing Applications in Aggregation Task: 
+
+  Application SIEM Application 
+
+  Application LMP-EWM 
+
+  Application ECMA 
+
+  Application 7789 Network Request 
+
+  Application ArmyIgnited 
+
+  Application LMP-BW 
+
+  Application LMP-SCM 
+
+  Application RECMOD-OLD 
+
+  Application 2875 Network Request 
+
+  Application AMID2 
+
+  Application LMP-ECC 
+
+ 
+
+ 
+
+Saving json file as: /opt/tomcat/apache-tomcat/temp/identityIQ-healthCheckInfo-output13917686934940628437.json 
+
+Saving output file as: /opt/tomcat/apache-tomcat/temp/identityIQ-healthCheckInfo-output3771466665917225598.txt 
+
+On host: caappdesuia0015 At time: 2026-06-09 07:12:29.147 
+
+  End Time (milliseconds): Jun 9, 2026 
+
+  Execution Time: 1349010 ms 
+
+ 	  
+
+CONTROLLED UNCLASSIFIED INFORMATION 
+
+© Copyright 2023 SailPoint Technologies - All rights reserved. | Powered by SailPoint IdentityIQ 
